@@ -4,8 +4,8 @@
 ### Rules and directions for documentation 
 ##### Why document?
 The sole purpose of this initiative is to keep on the chain of knowledge intact. The founding members had suffered the break in the lineage and took around 3 years to develop from scratch and we don't want the upcoming teams to do the same. 
-This documentation is important for each of the member of the club. This will be used by the next batch of members as well as junior members to learn and tackle issues related to the tasks from scratch. This will also help your peers to understand the tasks performed by you and analyze it to give any positive criticisms.
-Most importantly, This will act as proof of the team members work wherever he/she apply for whether it be for masters or for jobs. This will act as a 'Technical Report' and proof of your efforts while you stay in the club.
+This documentation is important for each of the members of the club. This will be used by the next batch of members as well as junior members to learn and tackle issues related to the tasks from scratch. This will also help your peers to understand the tasks performed by you and analyze it to give any positive criticisms.
+Most importantly, This will act as proof of the team members work wherever he/she apply for whether it be for masters or jobs. This will act as a 'Technical Report' and proof of your efforts while you stay in the club.
 
 ##### How to document?
 Before commanding everyone to start writing I would like to list why documenting is important:
@@ -31,15 +31,15 @@ Okay, now you know why to document let's define some rules that everyone has to 
 ##### Format of docs:
 1. Always start with a heading.
 2. Then describe the goal
-3. move on to describe the steps involved in order for reaching the goal (From theoretical knowledge - practical steps)
+3. move on to describe the steps involved for reaching the goal (From theoretical knowledge - practical steps)
     - This must include the links
-    - The **exact** steps to be followed from the given links(include the misconceptions and the blunders that you did while doing the same - be a senpai to a new born!!!)
+    - The **exact** steps to be followed from the given links(include the misconceptions and the blunders that you did while doing the same - be a senpai to a newborn!!!)
     - The output/result
     - [OPTIONAL but IMPORTANT] If the team members had chosen a different path earlier to execute the task and it turned out to be delusional; add those techniques and results too. 
 4. Finish it off with writing the name of the team member who performed it with their contact details.
 
 ##### Hierarchy of Submission
-1. The docs has to be written in the above format and then submitted to their respective team heads 
+1. The docs have to be written in the above format and then submitted to their respective team heads 
 2. Who will attest the completion of the work (OR IF NOT COMPLETED; he/she will give his witness about the experimentation performance)
 3. Compile all the docs from **all** the team members and submit to the coordinator
 4. The coordinator will upload it on the central repository.
@@ -81,7 +81,7 @@ Or the students can submit the content as **.txt** file and it will be uploaded 
 ##### Computer Vision
 - Sampling of datasets
 - Which contour/box around the object is selected
-- Camera caliberation
+- Camera calibration
 
 ---
 ##### Robot Operating System (ROS) and Gazebo
@@ -94,10 +94,10 @@ Or the students can submit the content as **.txt** file and it will be uploaded 
 ## Management ::   
 ##### Roles
 ##### Treasurer
-1. Whats the procedure for a change in the signature at the bank for the club bank account
+1. What's the procedure for a change in the signature at the bank for the club bank account
 2. Procedure for transferring of Univesity funds (The list of items to be prepared to sum up the money?)
 3. The format in which the students' names and contacts to be maintained along with their application fees
-4. Format to maintain the credit and debit of funds in the club (Including club fees, alumni funds, crowd funding, workshop incentives)
+4. Format to maintain the credit and debit of funds in the club (Including club fees, alumni funds, crowdfunding, workshop incentives)
 
 ##### Event Manager
 ##### Video/Photographer

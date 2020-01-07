@@ -121,6 +121,7 @@ Or the students can submit the content as **.txt** file and it will be uploaded 
 4. Any upcoming/incomplete request or possible places/institutes/colleges who showed any amount of interest for conduction of workshop but couldn't be followed up because of preoccupations, awkward timing, non-negotiable fees or finish of tenure - mention all the conversations and outcomes
 
 ##### Social Media Coordinator
+[Role](https://github.com/auvzhcet/Documentation/blob/master/Social_Media_Manager.md)
 1. How much impact have he/she done when the accounts were under her/his supervision
 2. Different audience attracting techniques
 3. Posting and boosting of posts on different handles

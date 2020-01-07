@@ -70,10 +70,17 @@ Or the students can submit the content as **.txt** file and it will be uploaded 
 ## Electrical/Electronics  
 
 ##### Battery Management Engineer
-###### Doc given by Abbas bhai
+
+The following document has been modified on 18th October 2018
+[Doc given by Abbas bhai](https://github.com/auvzhcet/Documentation/blob/master/BMS%20for%20lithium%20polymer%20battery%20pack.docx)
 
 ##### PCB designer
 ##### Acoustic Engineer
+
+[Comparative Study of hydrophones used by other teams](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)
+
+[Our implemetation](https://github.com/auvzhcet/Documentation/blob/master/Acoustics.md)
+
 ---
 ## Computer :computer:
 
@@ -89,6 +96,9 @@ Or the students can submit the content as **.txt** file and it will be uploaded 
 - How to handle the most common errors like ```package not found``` and others
 
 ##### Simulation Engineer
+[Gazebo]()
+[Unity]()
+
 
 ---
 ## Management ::   

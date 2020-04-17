@@ -1,5 +1,5 @@
 # Documentation :memo:
-
+> All generic documentation, reports, pdfs, etc. will be here.
 ---
 ### Rules and directions for documentation 
 ##### Why document?

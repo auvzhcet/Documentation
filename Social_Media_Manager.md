@@ -9,6 +9,7 @@ These are some of the Do's and Dont's of the social media manager of the Club
 - Promote the post when needed (eg. When crowdfunding is done) 
 - Trends of social media must be opted only when its positively beneficient
 - Post sponsors with there information and tagging them in your post on all social media handles
+- Give credits to any picture/videos/stories shared from other sources. Tagging their official handle is always better.
 - Post notice - recruits and Team Heads assignment
   
   

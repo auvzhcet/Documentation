@@ -1,5 +1,5 @@
 # Documentation :memo:
-
+> All generic documentation, reports, pdfs, etc. will be here.
 ---
 ### Rules and directions for documentation 
 ##### Why document?
@@ -135,6 +135,5 @@ The following document has been modified on 18th October 2018
 1. How much impact have he/she done when the accounts were under her/his supervision
 2. Different audience attracting techniques
 3. Posting and boosting of posts on different handles
-4. 
 
 ---

@@ -4,6 +4,8 @@ author: Syed Jawad Akhtar
 email: syedjawadakhtar@gmail.com
 ---
 
+> :warning: **Documentation is still in progress** 
+
 ## Acoustics Implementation - Survey, procurement & implementation
 
 #### Introduction about acoustics and competitions using it

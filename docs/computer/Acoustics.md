@@ -37,7 +37,7 @@ Drop the ball in the red drum with the pinger: 50 Points
 Dropping the ball in any other red drum: 10 Points
 
 ![drums](https://github.com/auvzhcet/Documentation/tree/jawad-patch-1/docs/computer/static/drums.png)
-![drums_top_view](https://github.com/auvzhcet/Documentation/tree/jawad-patch-1/docs/computer/static/drum_top_view.png)
+![drums_top_view](https://github.com/auvzhcet/Documentation/tree/jawad-patch-1/docs/computer/static/drums_top_view.png)
 
 #### The survey
 We checked Robosub journals of previous years of different teams - ([Past Programs - RoboSub](https://robosub.org/past-programs/)). 

@@ -1,0 +1,34 @@
+site_name: AUV-DOC
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contribute: CONTRIBUTING.md
+  - Computer: computer/README.md
+  - Electronics: electronics/README.md
+  - Marketing: marketing/README.md
+  - Mechanical: mechanical/README.md
+    
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - django
+
+
+site_url: https://auv-pnijhara-doc.readthedocs.io/
+site_description: Project documentation with Markdown.
+site_author: pnijhara
+
+repo_url: https://github.com/auvzhcet/Documentation
+edit_uri: ""
+
+markdown_extensions:
+  - toc:
+      permalink: "#"
+
+copyright: Copyright &copy; 2020 <a href="https://twitter.com/auvzhcet">AUV-ZHCET</a>, Maintained by <a href="https://twitter.com/NijharaPrajjwal">@pnijhara</a>.
+
+plugins:
+  - search

@@ -4,20 +4,20 @@ author: Syed Jawad Akhtar
 email: syedjawadakhtar@gmail.com
 ---
 
-> :warning: **WIP** 
+> **WIP** 
 
-## Acoustics Implementation - Survey, procurement & implementation
+# Acoustics Implementation - Survey, procurement & implementation
 
-#### Introduction 
+## Introduction 
 [Acoustics](https://en.wikipedia.org/wiki/Acoustics) is the branch of physics related to the study of mechanical waves in gases, liquids, and solids. [Underwater Acoustics](https://en.wikipedia.org/wiki/Acoustics#Underwater_acoustics) is the scientific study of natural and man-made sounds underwater. Applications include sonars to locate submarines, underwater communications by whales, et Cetra. To make our AUVs of industrial level standards and perform properly among the different sounds produced underwater, various competitions all around the world incorporate acoustic localization tasks in the arena. For example in [Singapore AUV Challenge](https://sauvc.org/), acoustic pingers located at different props are used for [_target acquisitions task_](https://sauvc.org/rulebook/#2.-target-acquisition) and [_localization task_](https://sauvc.org/rulebook/#4.-localization)). Similarly, the [Robosub competition](https://robosub.org/) conducted by AUVSI also plants different frequency pingers to guide the vehicle around the arena. Check out [Resources - RoboSub](https://robosub.org/resources/) link for their configurations as they change the theme every year.
 
 An acoustic localization system detects a frequency emitting source at a distance, using Time Difference of Arrival (TDOA) of the sound wave.
 
-#### Goal
+## Goal
 The types of equipment used are comparatively costly and complicated to make this system fuse with the operations of the vehicle. For this reason, the points to accomplish the tasks including a pinger is higher as compared to other tasks. 
 Check [SAUVC Rulebook](https://sauvc.org/rulebook/) and [mission and scoring](https://robosub.org/resources/) of Robosub competitions.
 
-#### Objective
+### Objective
 Our first objective is to use the optimum number of hydrophones to detect two pingers emitting 37.5 kHz and 40 kHz frequencies([Specifications](https://ocean-innovations.net/companies/rje-international/acoustic-pingers-and-transponders/)), respectively. 
 The tasks:
 1. Yellow Flare - localization task
@@ -41,13 +41,13 @@ Dropping the ball in any other red drum: 10 Points
 ![drums_top_view](https://github.com/auvzhcet/Documentation/tree/jawad-patch-1/docs/computer/static/drums_top_view.png)
 _Source: [SAUVC Rulebook](https://sauvc.org/rulebook/)_
 
-#### The survey
+## The survey
 We checked Robosub journals of previous years of different teams - ([Past Programs - RoboSub](https://robosub.org/past-programs/)). 
 The brief survey of hydrophones used by different teams in Robosub in 2019 - [AUV2k19/hydrophones_study](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)
  
 For a list of hydrophones, quantity, company & placement of hydrophones by other teams, check [References](https://github.com/auvzhcet/Documentation/blob/master/docs/computer/Acoustics.md#references).
 
-#### Equipments
+## Equipments
 1. [H2C hydrophones](https://www.aquarianaudio.com/h2c-hydrophone.html) from [Aquarian Audio](https://www.aquarianaudio.com/) with 3.5 mm TRS output connection. 
 Key features: Groves for easy mounting, 3.5mm connector & range of detection (10 kHz - 100 kHz)
 
@@ -63,8 +63,8 @@ Key features:
 ![Primary/Secondary Signals on MXP Connectors A and B](https://github.com/auvzhcet/Documentation/blob/jawad-patch-1/docs/computer/static/myRio_ports.png)
 _Source: [NI MyRIO User Guide and Specification](https://github.com/auvzhcet/Documentation/blob/jawad-patch-1/docs/computer/static/NI_MyRIO_User_Guide_and_Specification.pdf)_
 
-#### The process:
-##### Placement of hydrophones  
+## The process:
+### Placement of hydrophones  
 They are placed at specific distances in an equilateral shape for accurate results.
 Reference: [Design and analysis of air acoustic vector-sensor configurations for two-dimensional
 geometry](https://github.com/auvzhcet/Documentation/blob/jawad-patch-1/docs/computer/static/wajid2016.pdf)
@@ -78,14 +78,14 @@ The analog signals from the frequency emitter are detected by the hydrophones pl
 Then the signal is passed through the Fast Fourier transform algorithm, for detecting the exact frequency.
 The value thus obtained is then passed to the AUVs computer, which commands the thrusters to move towards the detected source. 
 
-#### Future Work:
+## Future Work:
 The assembly of all the components at one place and its optimization is required:
 1. Connecting all 3 hydrophones to a microcontroller to receive input without wire/connection interference
 2. Processing of audio signals for higher frequencies (50 kHz)
 3. Attaching to the vehicle at a certain angle
 4. Testing to eradicate reflections of signals form props and sidewalls of swimming pool
 
-#### References
+## References
 We looked in the 2012 paper **(insert document link)** of Istanbul Technical University
 3 hydrophones - 2012 paper **(insert document link)** of FEFU University and DARYABIRD **(insert document link)** IIT Bombay Matsya 2.0, 2013 FEFU
 Malardalen 2012 - H2C aquarian 2016 REDEFIANCE, 2016 Leviathan 3 H1C

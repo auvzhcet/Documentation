@@ -17,9 +17,6 @@ To design a threefold circuit:
 
 We decided to go the analogue rough for the BMS because we wanted to design a PCB and for current and temperature sensing we used an arduino simply because it is easy to logging data, we used lm 35 for temperature and acs712 for current sensing. In case the temperature exceeds the battery's manufacture specified operating temperature the battery will be disconnected from the output power.
 
-
-
-
 ## Charge protection circuit
 The circuit consists of a regulated Zener diode on the basis of the chip TL431. At a given voltage, a power transistor opens. With the diodes in the collector circuit it form the equivalent of the load. 
 That is, the excess power will be dissipated as heat on these elements. This assembly will help to charge 3 lithium-ion banks at once. 
@@ -32,7 +29,6 @@ By the use of zener diodes we are able to determine the voltage level of the bat
 
 ![schematic2](static/schematic2.jpg)
 ![schematic3](static/schematic3.jpg)
-
 
 ## Discharge protection circuit
 The individual cell voltages are measured and if they are below a set value a inverting relay is set, disconnecting the output power form the battery pack

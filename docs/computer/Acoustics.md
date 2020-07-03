@@ -47,9 +47,6 @@ _Source: [SAUVC Rulebook](https://sauvc.org/rulebook/)_
 ## The survey
 
 We checked Robosub journals of previous years of different teams - ([Past Programs - RoboSub](https://robosub.org/past-programs/)).
-The brief survey of hydrophones used by different teams in Robosub in 2019 - [AUV2k19/hydrophones_study](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)
-
-For a list of hydrophones, quantity, company & placement of hydrophones by other teams, check [References](computer/Acoustics.md#references).
 
 ## Equipments
 
@@ -70,21 +67,6 @@ _Source: [NI MyRIO User Guide and Specification](static/NI_MyRIO_User_Guide_and_
 
 ## The process
 
-### Placement of hydrophones  
-
-They are placed at specific distances in an equilateral shape for accurate results.
-Reference: [Design and analysis of air acoustic vector-sensor configurations for two-dimensional
-geometry](https://github.com/auvzhcet/Documentation/blob/master/docs/computer/static/wajid2016.pdf)
-The approximate distance of the placement of the arrays is calculated to be 3 inches apart. The distance is measured from the center of the hydrophones. It has to be in the form of an equilateral triangle, as seen in the figure.
-
-![Star configuration, having four measured signals, i.e., _pc_, _pk_ , _pl_ , and _pm_.](static/microphone_placement.png)
-
-1. Time Delay Of Arrival(TDOA):
-The figure for 2-D plane detection using 3 hydrophones.
-The analog signals from the frequency emitter are detected by the hydrophones placed on our vehicle, which is then passed through a signal processing board (For that we're using National Instruments MyRIO microcontroller board.)
-Then the signal is passed through the Fast Fourier transform algorithm, for detecting the exact frequency.
-The value thus obtained is then passed to the AUVs computer, which commands the thrusters to move towards the detected source.
-
 ## Future Work
 
 The assembly of all the components at one place and its optimization is required:
@@ -94,10 +76,3 @@ The assembly of all the components at one place and its optimization is required
 4.Testing to eradicate reflections of signals form props and sidewalls of swimming pool
 
 ## References
-
-We looked in the 2012 paper **(insert document link)** of Istanbul Technical University
-3 hydrophones - 2012 paper **(insert document link)** of FEFU University and DARYABIRD **(insert document link)** IIT Bombay Matsya 2.0, 2013 FEFU
-Malardalen 2012 - H2C aquarian 2016 REDEFIANCE, 2016 Leviathan 3 H1C
-2016 DORY 4 Teledyne
-2013 ZYRA - used GCCPHAT (Generalized Cross Co-relation PHase Transform) for finding [Delay of Arrival (DOA)](https://in.mathworks.com/help/phased/direction-of-arrival-doa-estimation-1.html) implementation
-Graphical Programming for Field Programmable Gate Arrays: Applications in Control and Mechatronics (PDF link)

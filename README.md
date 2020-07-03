@@ -1,8 +1,11 @@
 # Documentation :memo:
+
 > All generic documentation, reports, pdfs, etc. will be here.
+
 [![Documentation Status](https://readthedocs.org/projects/auv-doc/badge/?version=latest)](https://auv-doc.readthedocs.io/en/latest/?badge=latest)
 
 Read full documentation here at [auv-doc.readthedocs.io/](https://auv-doc.readthedocs.io/en/latest/)
+
 ---
 
 ### Rules and directions for documentation 

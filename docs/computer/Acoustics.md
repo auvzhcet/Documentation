@@ -29,8 +29,8 @@ Points would be awarded as follows. If the AUV successfully causes the ball to d
 flare with the pinger: 40 Points
 [This task from the [rulebook of SAUVC 2018](https://sauvc.org/2018/)]
 
-![yellow_Flare_animated](https://github.com/auvzhcet/Documentation/tree/master/docs/computer/static/flare_Animation.png)
-![yellow_Flare_underwater](https://github.com/auvzhcet/Documentation/tree/master/docs/computer/static/yellow_Flare_water.png)
+![yellow_Flare_animated](static/flare_Animation.png)
+![yellow_Flare_underwater](static/yellow_Flare_water.png)
 
 2. Red Drums - target acquisitions task
 There are 4 colored drums in the arena. All of them are on a green mat of size 8m x 2m. One of the drums, chosen at random, will be blue in color, while the rest are red in color. One of the red drums, chosen at random, will contain an acoustic pinger. The AUV needs to drop a ball in one of the drums to complete this task. The location of the red drum which contains the acoustic pinger may be randomized between attempts, as may be the order of the drums.
@@ -39,9 +39,9 @@ Drop the ball in the blue drum: 30 Points
 Drop the ball in the red drum with the pinger: 50 Points
 Dropping the ball in any other red drum: 10 Points
 
-![drums](https://github.com/auvzhcet/Documentation/tree/master/docs/computer/static/drums.png)
+![drums](static/drums.png)
 
-![drums_top_view](https://github.com/auvzhcet/Documentation/tree/master/docs/computer/static/drums_top_view.png)
+![drums_top_view](static/drums_top_view.png)
 _Source: [SAUVC Rulebook](https://sauvc.org/rulebook/)_
 
 ## The survey
@@ -49,7 +49,7 @@ _Source: [SAUVC Rulebook](https://sauvc.org/rulebook/)_
 We checked Robosub journals of previous years of different teams - ([Past Programs - RoboSub](https://robosub.org/past-programs/)).
 The brief survey of hydrophones used by different teams in Robosub in 2019 - [AUV2k19/hydrophones_study](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)
 
-For a list of hydrophones, quantity, company & placement of hydrophones by other teams, check [References](https://github.com/auvzhcet/Documentation/blob/master/docs/computer/Acoustics.md#references).
+For a list of hydrophones, quantity, company & placement of hydrophones by other teams, check [References](computer/Acoustics.md#references).
 
 ## Equipments
 
@@ -63,10 +63,10 @@ Key features:
 3.Inbuilt IMU that can be used further for movement of the vehicle.
 4.WiFi connectivity.
 
-![NI myRIO-1900 Hardware Block Diagram](https://github.com/auvzhcet/Documentation/blob/master/docs/computer/static/myRIO_hardware_pinout.png)
+![NI myRIO-1900 Hardware Block Diagram](static/myRIO_hardware_pinout.png)
 
-![Primary/Secondary Signals on MXP Connectors A and B](https://github.com/auvzhcet/Documentation/blob/master/docs/computer/static/myRio_ports.png)
-_Source: [NI MyRIO User Guide and Specification](https://github.com/auvzhcet/Documentation/blob/master/docs/computer/static/NI_MyRIO_User_Guide_and_Specification.pdf)_
+![Primary/Secondary Signals on MXP Connectors A and B](static/myRio_ports.png)
+_Source: [NI MyRIO User Guide and Specification](static/NI_MyRIO_User_Guide_and_Specification.pdf)_
 
 ## The process
 
@@ -77,7 +77,7 @@ Reference: [Design and analysis of air acoustic vector-sensor configurations for
 geometry](https://github.com/auvzhcet/Documentation/blob/master/docs/computer/static/wajid2016.pdf)
 The approximate distance of the placement of the arrays is calculated to be 3 inches apart. The distance is measured from the center of the hydrophones. It has to be in the form of an equilateral triangle, as seen in the figure.
 
-![Star configuration, having four measured signals, i.e., _pc_, _pk_ , _pl_ , and _pm_.](https://github.com/auvzhcet/Documentation/blob/master/docs/computer/static/microphone_placement.png)
+![Star configuration, having four measured signals, i.e., _pc_, _pk_ , _pl_ , and _pm_.](static/microphone_placement.png)
 
 1. Time Delay Of Arrival(TDOA):
 The figure for 2-D plane detection using 3 hydrophones.

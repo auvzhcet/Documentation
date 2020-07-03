@@ -29,8 +29,13 @@ Points would be awarded as follows. If the AUV successfully causes the ball to d
 flare with the pinger: 40 Points
 [This task from the [rulebook of SAUVC 2018](https://sauvc.org/2018/)]
 
-![yellow_Flare_animated](static/flare_Animation.png)
-![yellow_Flare_underwater](static/yellow_Flare_water.png)
+| ![yellow_Flare_animated](static/flare_Animation.png) |
+|:--:|
+| Fig. 1: Dimensions of the yellow flare. [_(Source)_](https://sauvc.org/rulebook/)|
+
+| ![yellow_Flare_underwater](static/yellow_Flare_water.png) |
+|:--:|
+| Fig. 2: Yellow flare underwater. [_(Source)_](https://sauvc.org/rulebook/)|
 
 2. Red Drums - target acquisitions task
 There are 4 colored drums in the arena. All of them are on a green mat of size 8m x 2m. One of the drums, chosen at random, will be blue in color, while the rest are red in color. One of the red drums, chosen at random, will contain an acoustic pinger. The AUV needs to drop a ball in one of the drums to complete this task. The location of the red drum which contains the acoustic pinger may be randomized between attempts, as may be the order of the drums.
@@ -39,10 +44,13 @@ Drop the ball in the blue drum: 30 Points
 Drop the ball in the red drum with the pinger: 50 Points
 Dropping the ball in any other red drum: 10 Points
 
-![drums](static/drums.png)
+| ![drums](static/drums.png) |
+|:--:|
+| Fig. 3: Drums placed on the green mat underwater. [_(Source)_](https://sauvc.org/rulebook/)|
 
-![drums_top_view](static/drums_top_view.png)
-_Source: [SAUVC Rulebook](https://sauvc.org/rulebook/)_
+| ![drums_top_view](static/drums_top_view.png) |
+|:--:|
+| Fig. 4: Target zone dimensions w.r.t. drums [_(Source)_](https://sauvc.org/rulebook/)|
 
 ## The survey
 
@@ -60,10 +68,13 @@ Key features:
 3.Inbuilt IMU that can be used further for movement of the vehicle.
 4.WiFi connectivity.
 
-![NI myRIO-1900 Hardware Block Diagram](static/myRIO_hardware_pinout.png)
+| ![NI myRIO](static/myRIO_hardware_pinout.png) |
+|:--:|
+| Fig. 5: NI myRIO-1900 Hardware Block Diagram [_(Source)_](static/NI_MyRIO_User_Guide_and_Specification.pdf)|
 
-![Primary/Secondary Signals on MXP Connectors A and B](static/myRio_ports.png)
-_Source: [NI MyRIO User Guide and Specification](static/NI_MyRIO_User_Guide_and_Specification.pdf)_
+| ![MXP Connectors A and B](static/myRio_ports.png) |
+|:--:|
+| Fig. 6: Primary/Secondary Signals on MXP Connectors A and B [_(Source)_](static/NI_MyRIO_User_Guide_and_Specification.pdf)|
 
 ## The process
 

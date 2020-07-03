@@ -154,10 +154,6 @@ The following document has been modified on 18th October 2018.
 
 #### Social Media Coordinator
 
-[Role](https://github.com/auvzhcet/Documentation/blob/master/Social_Media_Manager.md)
-
-1. The impact he/she had when the accounts were under his/her supervision.
-2. Different audience attracting techniques.
-3. Posting and boosting of posts on different handles.
+[Role](./marketing/Social_Media_Manager.md)
 
 ---

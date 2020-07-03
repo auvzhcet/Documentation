@@ -11,3 +11,13 @@ use GitHub pull requests for this purpose. Consult
 information on using pull requests.
 
 > Note : Every PR before require at least 2 approvals to get merged to the master branch.
+
+## Run docs with mkdocs locally
+
+There are just few steps that you need to follow to run docs locally:
+
+1. Fork the repo
+2. Clone the repo
+3. Create a python virtual environment and activate it
+4. Install the dependencies
+5. Type mkdocs serve

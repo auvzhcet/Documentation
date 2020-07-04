@@ -29,8 +29,14 @@ Points would be awarded as follows. If the AUV successfully causes the ball to d
 flare with the pinger: 40 Points
 [This task from the [rulebook of SAUVC 2018](https://sauvc.org/2018/)]
 
-![yellow_Flare_animated](static/flare_Animation.png)
-![yellow_Flare_underwater](static/yellow_Flare_water.png)
+
+| ![yellow_Flare_animated](static/flare_Animation.png) |
+|:--:|
+| Fig. 1: Dimensions of the yellow flare. [_(Source)_](https://sauvc.org/rulebook/)|
+
+| ![yellow_Flare_underwater](static/yellow_Flare_water.png) |
+|:--:|
+| Fig. 2: Yellow flare underwater. [_(Source)_](https://sauvc.org/rulebook/)|
 
 2. Red Drums - target acquisitions task
 There are 4 colored drums in the arena. All of them are on a green mat of size 8m x 2m. One of the drums, chosen at random, will be blue in color, while the rest are red in color. One of the red drums, chosen at random, will contain an acoustic pinger. The AUV needs to drop a ball in one of the drums to complete this task. The location of the red drum which contains the acoustic pinger may be randomized between attempts, as may be the order of the drums.
@@ -39,17 +45,17 @@ Drop the ball in the blue drum: 30 Points
 Drop the ball in the red drum with the pinger: 50 Points
 Dropping the ball in any other red drum: 10 Points
 
-![drums](static/drums.png)
+| ![drums](static/drums.png) |
+|:--:|
+| Fig. 3: Drums placed on the green mat underwater. [_(Source)_](https://sauvc.org/rulebook/)|
 
-![drums_top_view](static/drums_top_view.png)
-_Source: [SAUVC Rulebook](https://sauvc.org/rulebook/)_
+| ![drums_top_view](static/drums_top_view.png) |
+|:--:|
+| Fig. 4: Target zone dimensions w.r.t. drums [_(Source)_](https://sauvc.org/rulebook/)|
 
 ## The survey
 
 We checked Robosub journals of previous years of different teams - ([Past Programs - RoboSub](https://robosub.org/past-programs/)).
-The brief survey of hydrophones used by different teams in Robosub in 2019 - [AUV2k19/hydrophones_study](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)
-
-For a list of hydrophones, quantity, company & placement of hydrophones by other teams, check [References](computer/Acoustics.md#references).
 
 ## Equipments
 
@@ -63,27 +69,15 @@ Key features:
 3.Inbuilt IMU that can be used further for movement of the vehicle.
 4.WiFi connectivity.
 
-![NI myRIO-1900 Hardware Block Diagram](static/myRIO_hardware_pinout.png)
+| ![NI myRIO](static/myRIO_hardware_pinout.png) |
+|:--:|
+| Fig. 5: NI myRIO-1900 Hardware Block Diagram [_(Source)_](static/NI_MyRIO_User_Guide_and_Specification.pdf)|
 
-![Primary/Secondary Signals on MXP Connectors A and B](static/myRio_ports.png)
-_Source: [NI MyRIO User Guide and Specification](static/NI_MyRIO_User_Guide_and_Specification.pdf)_
+| ![MXP Connectors A and B](static/myRio_ports.png) |
+|:--:|
+| Fig. 6: Primary/Secondary Signals on MXP Connectors A and B [_(Source)_](static/NI_MyRIO_User_Guide_and_Specification.pdf)|
 
 ## The process
-
-### Placement of hydrophones  
-
-They are placed at specific distances in an equilateral shape for accurate results.
-Reference: [Design and analysis of air acoustic vector-sensor configurations for two-dimensional
-geometry](https://github.com/auvzhcet/Documentation/blob/master/docs/computer/static/wajid2016.pdf)
-The approximate distance of the placement of the arrays is calculated to be 3 inches apart. The distance is measured from the center of the hydrophones. It has to be in the form of an equilateral triangle, as seen in the figure.
-
-![Star configuration, having four measured signals, i.e., _pc_, _pk_ , _pl_ , and _pm_.](static/microphone_placement.png)
-
-1. Time Delay Of Arrival(TDOA):
-The figure for 2-D plane detection using 3 hydrophones.
-The analog signals from the frequency emitter are detected by the hydrophones placed on our vehicle, which is then passed through a signal processing board (For that we're using National Instruments MyRIO microcontroller board.)
-Then the signal is passed through the Fast Fourier transform algorithm, for detecting the exact frequency.
-The value thus obtained is then passed to the AUVs computer, which commands the thrusters to move towards the detected source.
 
 ## Future Work
 
@@ -94,10 +88,3 @@ The assembly of all the components at one place and its optimization is required
 4.Testing to eradicate reflections of signals form props and sidewalls of swimming pool
 
 ## References
-
-We looked in the 2012 paper **(insert document link)** of Istanbul Technical University
-3 hydrophones - 2012 paper **(insert document link)** of FEFU University and DARYABIRD **(insert document link)** IIT Bombay Matsya 2.0, 2013 FEFU
-Malardalen 2012 - H2C aquarian 2016 REDEFIANCE, 2016 Leviathan 3 H1C
-2016 DORY 4 Teledyne
-2013 ZYRA - used GCCPHAT (Generalized Cross Co-relation PHase Transform) for finding [Delay of Arrival (DOA)](https://in.mathworks.com/help/phased/direction-of-arrival-doa-estimation-1.html) implementation
-Graphical Programming for Field Programmable Gate Arrays: Applications in Control and Mechatronics (PDF link)

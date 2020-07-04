@@ -1,6 +1,13 @@
 # Documentation :memo:
+
 > All generic documentation, reports, pdfs, etc. will be here.
+
+[![Documentation Status](https://readthedocs.org/projects/auv-doc/badge/?version=latest)](https://auv-doc.readthedocs.io/en/latest/?badge=latest)
+
+Read full documentation here at [auv-doc.readthedocs.io/](https://auv-doc.readthedocs.io/en/latest/)
+
 ---
+
 ### Rules and directions for documentation 
 ##### Why document?
 The sole purpose of this initiative is to keep on the chain of knowledge intact. The founding members had suffered the break in the lineage and took around 3 years to develop from scratch and we don't want the upcoming teams to do the same. 

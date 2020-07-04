@@ -29,6 +29,7 @@ Points would be awarded as follows. If the AUV successfully causes the ball to d
 flare with the pinger: 40 Points
 [This task from the [rulebook of SAUVC 2018](https://sauvc.org/2018/)]
 
+
 | ![yellow_Flare_animated](static/flare_Animation.png) |
 |:--:|
 | Fig. 1: Dimensions of the yellow flare. [_(Source)_](https://sauvc.org/rulebook/)|

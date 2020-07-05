@@ -27,5 +27,5 @@ These are some of the Do's and Dont's of the social media manager of the Club
 - Like unnecessary posts which may put the organization in question
 - Follow unnecessary celebrities
 - Ever leak any confidential information online that can harm the organization or the college. E.g. total fund, materials, design
-- Like any unnecessary pages which people ask to like on FB 
+- Like any unnecessary pages which people ask to like on FB
 - Like or share other pictures required to win any contest which is not related to the club. E.g. Cultural Events of the college/University

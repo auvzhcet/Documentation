@@ -16,9 +16,9 @@
 
 #### 2.Conventional Commits may not need to specify present tense, imperative mood for verbs. Follow the use of use the common present tense, imperative mood practice.
 
-#### [References](https://www.conventionalcommits.org/en/v1.0.0/)
+#### 3.You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
 
-#### 4.You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
+#### [References](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## CODE OF CONDUCT
 

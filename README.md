@@ -1,4 +1,4 @@
-# Documentation
+# Documentation :memo:
 
 > All generic documentation, reports, pdfs, etc. will be here.
 
@@ -80,7 +80,7 @@ Or the students can submit the content as **.txt** file and it will be uploaded 
 5. Handle queries from any person trying to know about the content
 6. Handle content from non-club members (Club alumni/experts)
 
-## Mechanical
+## Mechanical :gear:
 
 ### Fabrication Engineer
 
@@ -88,7 +88,7 @@ Or the students can submit the content as **.txt** file and it will be uploaded 
 
 ---
 
-## Electrical/Electronics
+## Electrical/Electronics :electric_plug:
 
 ### Battery Management Engineer
 
@@ -105,7 +105,7 @@ The following document has been modified on 18th October 2018
 
 ---
 
-## Computer
+## Computer :computer:
 
 ---
 
@@ -129,7 +129,7 @@ The following document has been modified on 18th October 2018
 
 ---
 
-## Management
+## Management :bust_in_silhouette:
 
 ### Roles
 
@@ -167,7 +167,7 @@ The following document has been modified on 18th October 2018
 
 ### Social Media Coordinator
 
-[Role](https://github.com/auvzhcet/Documentation/blob/master/Social_Media_Manager.md)
+[Role](https://github.com/auvzhcet/Documentation/blob/master/docs/marketing/Social_Media_Manager.md)
 
 1. How much impact have he/she done when the accounts were under her/his supervision
 2. Different audience attracting techniques

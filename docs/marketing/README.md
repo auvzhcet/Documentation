@@ -19,6 +19,7 @@ In this club, you have to interact with freshers, alumni working in various fiel
 - Sponsorship Manager (Online and Offline)
 - Creative Manager
 - Videographer/Editor
+- Treasurer
 
 ## Resources
 

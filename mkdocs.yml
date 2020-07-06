@@ -10,11 +10,19 @@ nav:
   - Mechanical: mechanical/README.md
     
 theme:
-  name: readthedocs
+  name: material
   highlightjs: true
   hljs_languages:
     - yaml
     - django
+  palette:
+    primary: blue
+    accent: blue
+  font:
+    text: Ubuntu
+    code: Ubuntu Mono
+  favicon: images/favicon.ico
+  logo: images/favicon.ico
 
 
 site_url: https://auv-pnijhara-doc.readthedocs.io/

@@ -101,7 +101,7 @@ The following document has been modified on 18th October 2018
 
 [Comparative Study of hydrophones used by other teams](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)
 
-[Our implemetation](docs/computer/Acoustics.md)
+[Our implementation](docs/computer/Acoustics.md)
 
 ---
 

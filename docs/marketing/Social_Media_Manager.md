@@ -1,8 +1,8 @@
-# Social media manager
+# Manager's Role
 
 These are some of the Do's and Dont's of the social media manager of the Club
 
-## Do's
+## **Do's**
 
 - Update any news regarding the club - approving it with the faculty advisor and/or Coordinator
 - Snippets of Newspaper/reshare others post in which the club is mentioned
@@ -14,8 +14,8 @@ These are some of the Do's and Dont's of the social media manager of the Club
 - Post sponsors with there information and tagging them in your post on all social media handles
 - Give credits to any picture/videos/stories shared from other sources. Tagging their official handle is always better.
 - Post notice - recruits and Team Heads assignment
-
-## Don’t
+  
+## **Don’t**
 
 - Spread fake news
 - Share the password to anyone, not even other unauthorized members of the club

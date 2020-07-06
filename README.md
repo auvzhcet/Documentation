@@ -101,7 +101,7 @@ The following document has been modified on 18th October 2018
 
 [Comparative Study of hydrophones used by other teams](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)
 
-[Our implemetation](https://github.com/auvzhcet/Documentation/blob/master/Acoustics.md)
+[Our implemetation](docs/computer/Acoustics.md)
 
 ---
 
@@ -167,7 +167,7 @@ The following document has been modified on 18th October 2018
 
 ### Social Media Coordinator
 
-[Role](https://github.com/auvzhcet/Documentation/blob/master/docs/marketing/Social_Media_Manager.md)
+[Role](docs/marketing/Social_Media_Manager.md)
 
 1. How much impact have he/she done when the accounts were under her/his supervision
 2. Different audience attracting techniques

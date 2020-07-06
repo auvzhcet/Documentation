@@ -6,7 +6,7 @@ Follow markdown format and files name ending with .md. For adding images create 
 ## Table of content
 
 - [Social Media Manager](Social_Media_Manager.md)
-- Event/Workshop Manger
+- Event/Workshop Manager
 - Sponsorship Manager (Online and Offline)
 - Creative Manager
 - Videographer/Editor

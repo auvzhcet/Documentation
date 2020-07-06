@@ -16,7 +16,9 @@ Most importantly, This will act as proof of the team members work wherever he/sh
 
 ### How to document
 
-Before writing I please read that why documenting is important.
+Before writing please read that why documenting is important.
+This documentation is important for each of the members of the club. This will be used by the next batch of members as well as junior members to learn and tackle issues related to the tasks from scratch. This will also help your peers to understand the tasks performed by you and analyze it to give any positive criticisms.
+Most importantly, This will act as proof of the team members work wherever he/she apply for whether it be for masters or jobs. This will act as a 'Technical Report' and proof of your efforts while you stay in the club.
 
 ### What to document
 
@@ -26,16 +28,16 @@ Before writing I please read that why documenting is important.
 4. Any undocumented but significant basic procedure that is used in the working of the vehicle
 5. Any undocumented work that was previously left incomplete/neglected by the seniors
 
-### What not to document
+### What NOT to document
 
 1. Those which do not have concrete evidence for the result (The student can better read plenty of research papers without a concrete goal)
-2. Comparative studies - This is not journal publishing stories. Here students must benefit fro the technique and not stay confused while choosing one
+2. Comparative studies - This is not journal publishing stories. here students must benefit fro the technique and not stay confused while choosing one.
 
-Some rules that everyone has to follow for uniformity in the information collected.
+some rules that everyone has to follow for uniformity in the information collected.
 
 ### Format of docs
 
-1. Always start with a heading
+1. Always start with a heading.
 2. Then describe the goal
 3. move on to describe the steps involved for reaching the goal (From theoretical knowledge - practical steps)
     - This must include the links
@@ -160,3 +162,10 @@ The following document has been modified on 18th October 2018
 1. How much impact have he/she done when the accounts were under her/his supervision
 2. Different audience attracting techniques
 3. Posting and boosting of posts on different handles
+
+## Teams
+
+1. [Mechanical](mechanical/README.md)
+2. [Electrical/Electronics](electronics/README.md)
+3. [Computer](computer/README.md)
+4. [Management](marketing/README.md)

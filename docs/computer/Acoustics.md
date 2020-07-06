@@ -88,3 +88,5 @@ The assembly of all the components at one place and its optimization is required
 4.Testing to eradicate reflections of signals form props and sidewalls of swimming pool
 
 ## References
+
+[Comparative Study of hydrophones used by other teams](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)

@@ -11,6 +11,9 @@ Here in AUV ZHCET, it has always been the core of the club to translate the work
 
 In this club, you have to interact with freshers, alumni working in various fields, deans/principals for conducting workshops, local vendors, and industrial experts for sponsorships et Cetra. The extreme diversity in the audience makes a management team member exuberantly skilled in marketing and management.
 
+All the Documentation related to Marketing team goes here.
+Follow markdown format and files name ending with .md. For adding images create a sub-directory named static and add all the images there. Thereafter linking them to the relavant files.
+
 ## Table of content
 
 - [Social Media Manager](Social_Media_Manager.md)

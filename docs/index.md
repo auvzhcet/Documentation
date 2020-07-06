@@ -72,7 +72,7 @@ Some other rules that everyone has to follow for uniformity in the information c
 
 Teams:
 
-1.[Mechanical](mechanical)
+1. [Mechanical](mechanical)
 
 ## Electrical/Electronics  
 

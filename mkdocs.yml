@@ -3,7 +3,9 @@ site_name: AUV-DOC
 nav:
   - Home: index.md
   - About: about.md
-  - Development: Development/CONTRIBUTING.md
+  - Development:
+    - Code of conduct: Development/code_of_conduct.md
+    - Contributing guidelines: Development/CONTRIBUTING.md
   - Computer: computer/README.md
   - Electronics: electronics/README.md
   - Marketing: marketing/README.md

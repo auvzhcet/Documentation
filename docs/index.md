@@ -70,7 +70,7 @@ Some other rules that everyone has to follow for uniformity in the information c
 5. Handle queries from any person trying to know about the content.
 6. Handle content from non-club members (Club alumni/experts).
 
-Teams:
+## Teams
 
 1. [Mechanical](mechanical)
 

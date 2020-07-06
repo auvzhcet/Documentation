@@ -70,13 +70,9 @@ Some other rules that everyone has to follow for uniformity in the information c
 5. Handle queries from any person trying to know about the content.
 6. Handle content from non-club members (Club alumni/experts).
 
-## Mechanical
+Teams:
 
-### Fabrication Engineer
-
-1. Location of acquisition of materials - Each material, exact location, cost with date.
-
----
+1.[Mechanical](mechanical)
 
 ## Electrical/Electronics  
 

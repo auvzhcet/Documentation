@@ -11,7 +11,7 @@ It is not necessary that each role has to be assigned to only one individual. Th
 
 ### Fabrication Engineer
 
-## Simulation Engineer
+### Simulation Engineer
 
 1. Solidworks: Installation and resources for learning.
 2. ANSYS: Installation and resources for learning.

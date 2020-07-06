@@ -6,9 +6,15 @@ nav:
   - Development:
     - Code of conduct: Development/code_of_conduct.md
     - Contributing guidelines: Development/CONTRIBUTING.md
-  - Computer: computer/README.md
+  - Computer:
+    - Index: computer/README.md
+    - Acoustics: computer/Acoustics.md
   - Electronics: electronics/README.md
-  - Marketing: marketing/README.md
+  - Marketing:
+    - Index: marketing/README.md
+    - Alumni Relations: marketing/alumni_relations.md
+    - Social media manager: marketing/Social_Media_Manager.md
+    - Treasurer: marketing/treasurer.md
   - Mechanical: mechanical/README.md
     
 theme:

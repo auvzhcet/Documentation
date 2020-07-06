@@ -21,9 +21,8 @@ theme:
   font:
     text: Ubuntu
     code: Ubuntu Mono
-  favicon: images/favicon.ico
-  logo: images/favicon.ico
-
+  favicon: assets/favicon.ico
+  logo: assets/favicon.ico
 
 site_url: https://auv-doc.readthedocs.io/
 site_description: Project documentation with Markdown.

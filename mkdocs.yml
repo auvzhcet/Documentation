@@ -3,7 +3,7 @@ site_name: AUV-DOC
 nav:
   - Home: index.md
   - About: about.md
-  - Contribute: CONTRIBUTING.md
+  - Development: Development/CONTRIBUTING.md
   - Computer: computer/README.md
   - Electronics: electronics/README.md
   - Marketing: marketing/README.md

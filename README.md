@@ -80,97 +80,11 @@ Or the students can submit the content as **.txt** file and it will be uploaded 
 5. Handle queries from any person trying to know about the content
 6. Handle content from non-club members (Club alumni/experts)
 
-## Mechanical :gear:
+## Teams
 
-### Fabrication Engineer
-
-1. Location of acquisition of materials - Each material, exact location, cost with date.
-
----
-
-## Electrical/Electronics :electric_plug:
-
-### Battery Management Engineer
-
-The following document has been modified on 18th October 2018
-[Doc given by Abbas bhai](https://github.com/auvzhcet/Documentation/blob/master/BMS%20for%20lithium%20polymer%20battery%20pack.docx)
-
-### PCB designer
-
-### Acoustic Engineer
-
-[Comparative Study of hydrophones used by other teams](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)
-
-[Our implementation](docs/computer/Acoustics.md)
-
----
-
-## Computer :computer:
-
----
-
-### Computer Vision
-
-- Sampling of datasets
-- Which contour/box around the object is selected
-- Camera calibration
-
----
-
-### Robot Operating System (ROS) and Gazebo
-
-- Which tutorials to follow for beginner/intermediate levels - in order
-- How to handle the most common errors like ```package not found``` and others
-
-### Simulation Engineer
-
-1. [Gazebo](http://gazebosim.org/)
-2. [Unity](https://unity.com/)
-
----
-
-## Management :bust_in_silhouette:
-
-### Roles
-
-### Treasurer
-
-1. What's the procedure for a change in the signature at the bank for the club bank account
-2. Procedure for transferring of Univesity funds (The list of items to be prepared to sum up the money?)
-3. The format in which the students' names and contacts to be maintained along with their application fees
-4. Format to maintain the credit and debit of funds in the club (Including club fees, alumni funds, crowdfunding, workshop incentives)
-
-### Event Manager
-
-### Video/Photographer
-
-1. Usage of video editing software
-2. Usage of photo editing hardware
-3. Preserve all raw images/footages used for making videos
-4. Upload the final material on YouTube
-5. any unfinished projects must be handed over to the Coordinator/Faculty Advisor using a Pen Drive.
-6. All those that covers point  4. must be stored in a secure place and handed over to Coordinator/Faculty Advisor using a Pen Drive/Hard Disk.
-
-### Creative Coordinator
-
-1. Usage of poster/banner making software
-2. All images used in the posters must be preserved (except easily found logos; internet pictures and backgrounds)
-3. Preserve all the raw photoshop edited files
-4. Hand over items from 3. to the Coordinator/Faculty Advisor using a Pen Drive.
-
-### Workshop Coordinator
-
-1. Format of the letter sent to all the previously requested schools/universities for workshops
-2. The package proposed to be held - The course covered for 2 days/3 days (Mechanical, Electrical/Electronics, and Computer); Kit taken along; the per head charge taken
-3. A complete report of the conducted workshop - Place, Institute held in, attendance of students, how many club members invited, total revenue generated(show by subtracting the total travel & accommodation cost)
-4. Any upcoming/incomplete request or possible places/institutes/colleges who showed any amount of interest for conduction of workshop but couldn't be followed up because of preoccupations, awkward timing, non-negotiable fees or finish of tenure - mention all the conversations and outcomes
-
-### Social Media Coordinator
-
-[Role](docs/marketing/Social_Media_Manager.md)
-
-1. How much impact have he/she done when the accounts were under her/his supervision
-2. Different audience attracting techniques
-3. Posting and boosting of posts on different handles
+1. [Mechanical](mechanical/README.md)
+2. [Electrical/Electronics](electronics/README.md)
+3. [Computer](computer/README.md)
+4. [Management](marketing/README.md)
 
 ---

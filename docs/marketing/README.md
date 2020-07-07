@@ -1,8 +1,5 @@
 # Marketing Doc
 
-> _All the Documentation related to Marketing team goes here._
-> _Follow markdown format and files name ending with .md. For adding images create a sub-directory named static and add all the images there. Thereafter linking them to the relavant files._
-
 A marketing team acts as the backbone of a technical club. The club can't make progress without proper representation in the public domain. A marketing team member has to be of a mindset of converting the geeky idea of a company into layman terms and make a profit out of it. This requires an in-depth understanding of the audience and attracting them most easily.
 
 Management is more of understanding human psychology and handling it. When a marketer understands what the customer needs, then he just has to put his communication and outreach skills.

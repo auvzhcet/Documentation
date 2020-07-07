@@ -3,21 +3,36 @@ site_name: AUV-DOC
 nav:
   - Home: index.md
   - About: about.md
-  - Contribute: CONTRIBUTING.md
-  - Computer: computer/README.md
+  - Development:
+    - Code of conduct: Development/code_of_conduct.md
+    - Contributing guidelines: Development/CONTRIBUTING.md
+  - Computer:
+    - Index: computer/README.md
+    - Acoustics: computer/Acoustics.md
   - Electronics: electronics/README.md
-  - Marketing: marketing/README.md
+  - Marketing:
+    - Index: marketing/README.md
+    - Alumni Relations: marketing/alumni_relations.md
+    - Social media manager: marketing/Social_Media_Manager.md
+    - Treasurer: marketing/treasurer.md
   - Mechanical: mechanical/README.md
     
 theme:
-  name: readthedocs
+  name: material
   highlightjs: true
   hljs_languages:
     - yaml
     - django
+  palette:
+    primary: blue
+    accent: blue
+  font:
+    text: Ubuntu
+    code: Ubuntu Mono
+  favicon: assets/favicon.ico
+  logo: assets/favicon.ico
 
-
-site_url: https://auv-pnijhara-doc.readthedocs.io/
+site_url: https://auv-doc.readthedocs.io/
 site_description: Project documentation with Markdown.
 site_author: pnijhara
 

@@ -1,7 +1,5 @@
 # Documentation
 
----
-
 ## Rules and directions for documentation
 
 ### Why document
@@ -13,14 +11,6 @@ Most importantly, this will act as proof of the team member's work wherever he/s
 ### How to document
 
 Before commanding everyone to start writing, I would like to list why documenting is important.
-
-#### Example submission
-
-```python
-import os
-
-print("Hello World!")
-```
 
 ### What to document
 
@@ -70,11 +60,17 @@ Some other rules that everyone has to follow for uniformity in the information c
 5. Handle queries from any person trying to know about the content.
 6. Handle content from non-club members (Club alumni/experts).
 
-## Mechanical
+---
 
-### Fabrication Engineer
+## Teams
 
-1. Location of acquisition of materials - Each material, exact location, cost with date.
+1. [Computer](computer)
+
+2. [Electrical/Electronics](electronics)
+
+3. [Marketing](marketing)
+
+4. [Mechanical](mechanical)
 
 ---
 
@@ -120,10 +116,10 @@ The following document has been modified on 18th October 2018.
 
 ### Roles
 
-#### Treasurer
+#### [Treasurer](./marketing/treasurer.md)
 
 1. Procedure for a change in the signature at the bank for the club bank account.
-2. Procedure for transferring of Univesity funds (The list of items to be prepared to sum up the money?).
+2. Procedure for transferring of Univesity funds (The list of items to be prepared to sum up the money).
 3. The format in which the students' names and contacts are to be maintained along with their application fees.
 4. Format to maintain the credit and debit of funds in the club (Including club fees, alumni funds, crowdfunding, workshop incentives).
 
@@ -152,9 +148,7 @@ The following document has been modified on 18th October 2018.
 3. A complete report of the conducted workshop - Place, Institute held in, attendance of students, total club members invited, total revenue generated(show by subtracting the total travel & accommodation cost).
 4. Any upcoming/incomplete request or possible places/institutes/colleges who showed any interest for conduction of workshop but couldn't be followed up because of preoccupations, awkward timings, non-negotiable fees or finish of tenure - mention all the conversations and outcomes.
 
-#### Social Media Coordinator
-
-[Role](./marketing/Social_Media_Manager.md)
+#### [Social Media Coordinator](./marketing/Social_Media_Manager.md)
 
 1. The impact he/she had when the accounts were under his/her supervision.
 2. Different audience attracting techniques.

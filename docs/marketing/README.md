@@ -15,10 +15,11 @@ In this club, you have to interact with freshers, alumni working in various fiel
 
 - [Social Media Manager](Social_Media_Manager.md)
 - [Alumni Relations Officer](alumni_relations.md)
-- Event/Workshop Manager
+- [Event Manager](event_Manager.md)
+- [Workshop Coordinator](workshop_Coordinator.md)
 - Sponsorship Manager (Online and Offline)
-- Creative Manager
-- Videographer/Editor
+- [Creative Coordinator](creative_Coordinator.md)
+- [Media Manager](media_Manager.md)
 - [Treasurer](treasurer.md)
 
 ## Resources

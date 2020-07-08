@@ -7,7 +7,7 @@ Follow markdown format and files name ending with .md. For adding images create 
 
 - [Fabrication Engineer](fabrication_Engineer.md)
 - [Simulation Engineer](simulation_Engineer.md)
-- [Topredo Engineer](torpedo_Engineer.md)
+- [Torpedo Engineer](torpedo_Engineer.md)
 - [Prop Engineer](torpedo_Enginner.md)
 
 ## Designations

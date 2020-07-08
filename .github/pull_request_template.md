@@ -1,6 +1,6 @@
 # Checklist
 
-- [ ] Closes #xxxx
+- [ ] fixes #xxxx
 - [ ] Passes `Semantic Pull Request` and `TypoCheck`
 - [ ] New docs are listed in `README.md`
 - [ ] New docs are listed in `index.md`

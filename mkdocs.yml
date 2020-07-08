@@ -18,7 +18,12 @@ nav:
     - Alumni Relations: marketing/alumni_relations.md
     - Social media manager: marketing/Social_Media_Manager.md
     - Treasurer: marketing/treasurer.md
-  - Mechanical: mechanical/README.md
+    - Sponsorship Coordinator: marketing/sponsorship.md
+    - Event Manager: marketing/event_Manager.md
+    - Media Manager: marketing/media_Manager.md
+    - Workshop Coordinator: marketing/workshop_Coordinator.md 
+  - Mechanical:
+    - Index: mechanical/README.md
     - Fabrication Engineer: mechanical/fabrication_Engineer.md
     - Simulation Engineer: mechanical/simulation_Engineer.md
     - Torpedo Engineer: mechanical/torpedo_Engineer.md

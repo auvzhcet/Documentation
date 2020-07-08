@@ -16,7 +16,12 @@ nav:
     - Alumni Relations: marketing/alumni_relations.md
     - Social media manager: marketing/Social_Media_Manager.md
     - Treasurer: marketing/treasurer.md
-  - Mechanical: mechanical/README.md
+  - Mechanical:
+    - Index: mechanical/README.md
+    - Fabrication Engineer: mechanical/fabrication_Engineer.md
+    - Simulation Engineer: mechanical/simulation_Engineer.md
+    - Torpedo Engineer: mechanical/torpedo_Engineer.md
+    - Prop Engineer: mechanical/prop_Engineer.md
     
 theme:
   name: material

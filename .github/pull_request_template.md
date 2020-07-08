@@ -1,9 +1,9 @@
 # Checklist
 
-- [ ] Closes #xxxx
+- [ ] fixes #xxxx
 - [ ] Passes `Semantic Pull Request` and `TypoCheck`
-- [ ] New functions/methods are listed in `README.md`
-- [ ] New functions/methods are listed in `index.md`
+- [ ] New docs are listed in `README.md`
+- [ ] New docs are listed in `index.md`
 - [ ] Updated table of content
 - [ ] Updated nav links in mkdocs.yml
 

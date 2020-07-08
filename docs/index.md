@@ -109,5 +109,3 @@ The following document has been modified on 18th October 2018.
 
 1. [Gazebo](http://gazebosim.org/)
 2. [Unity](https://unity.com/)
-
----

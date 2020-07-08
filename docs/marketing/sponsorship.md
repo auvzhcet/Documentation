@@ -25,6 +25,18 @@ Sponsorships are required to get help from industries, Alumni, and prominent peo
 
 2. [Cornell AUV](https://cuauv.org/) - [Fundraising & Marketing](https://blogs.cornell.edu/engineeringprojectteams/fundraising/) - [Sponsors](https://cuauv.org/sponsor) - [Student Teams Fundraising Checklist](insert link to pdf)
 
-3. [Amador Valley High School](https://www.avbotz.com/fundraising-progress.html) - for the marvelous progress bar (Add photo)
+3. [Amador Valley High School](https://www.avbotz.com/fundraising-progress.html) - for the marvelous progress bar.
 
-4. Outreach - https://duke-robotics.com/outreach/
+    | ![sponsorhsip_1.png](static/sponsorship_1.png) |
+    |:--:|
+    | Fund Raising Progress bar - AVBot ([_Source_](https://www.avbotz.com/fundraising-progress.html))|
+
+    | ![sponsorhsip_2.png](static/sponsorship_2.png) |
+    |:--:|
+    | You will help fund - Price and Priority - AVBot ([_Source_](https://www.avbotz.com/fundraising-progress.html))|
+
+    | ![sponsorhsip_3.png](static/sponsorship_3.png) |
+    |:--:|
+    | Already Funded - Purchase cost and status - AVBot ([_Source_](https://www.avbotz.com/fundraising-progress.html))|
+
+4. Outreach - <https://duke-robotics.com/outreach/>

@@ -25,7 +25,7 @@ This will as mentioned above create same **.git** subdirectory but scoped to tha
 If a project has been set up in a central repository, the **clone** command is the most common way to obtain a local development clone.Once a developer(contributor) has obtained a working copy, all version control operations are managed through their local repository.
 
 ```console
-linux~$ git clone <repo url>
+$foo@bar git clone <repo url>
 ```  
 
  git clone creates a local clone of remote repo.
@@ -41,13 +41,13 @@ Once you have completed with cloning and and working on project
 * Add changes to staging area
 
 ```console
-linux~$ git add <file names or the whole dir(./ )>
+$foo@bar git add <file names or the whole dir(./ )>
 ```  
 
 * Commit those changes
 
 ```console
-linux~$ git commit -m "Message about the commit"
+$foo@bar git commit -m "Message about the commit"
 ```
 
 ### Collaboration

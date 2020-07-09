@@ -10,7 +10,7 @@ A *[git repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repo
 
 ### Initializing a new repository: **git init**
 
-To create a new repo, you'll use the **git init** command. git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new **.git**   subdirectory in your current working directory. This will also create a new branch called master. 
+To create a new repo, you'll use the **git init** command. git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new **.git**   subdirectory in your current working directory. This will also create a new branch called master.
 
 ### Versioning an existing project with a new git repository
 

@@ -6,7 +6,7 @@ nav:
   - Development:
     - Code of conduct: Development/code_of_conduct.md
     - Contributing guidelines: Development/CONTRIBUTING.md
-    - Creating a repository guide: Development/Creating_a_Repository.md
+    - Creating a repository guide: Development/Creating_a_Repository_guide.md
   - Computer:
     - Index: computer/README.md
     - Acoustics: computer/Acoustics.md

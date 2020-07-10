@@ -1,5 +1,5 @@
 ---
-title: Sponssorship - Offline Funds
+title: Sponsorship - Offline Funds
 author: Syed Jawad Akhtar
 email-id: syedjawadakhtar@gmail.com
 ---

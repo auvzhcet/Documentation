@@ -11,7 +11,7 @@ A specific role of **Sponsorship Coordinator** is required due to the intensity 
 Proper coordination with **Alumni Relations Officer**, **Social Media Manager**, **Media Manager**, and **Event Manager** are required in these tasks.
 
 Sponsorships are required to get help from industries, Alumni, and prominent people who will help us in either providing equipment or with funds for traveling/accommodation when going for competitions.
-This may be by mails, by visitng them or even by calling them.
+This may be by mails, by visiting them or even by calling them.
 
 Proper money caps and services are used to divide sponsorships into: **Platinum, Gold, Silver, Bronze, Software sponsors and Outreach sponsors**.
 

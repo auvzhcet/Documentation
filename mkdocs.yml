@@ -13,15 +13,21 @@ nav:
     - Computer vision: computer/computer_vision.md
     - Simulation Engineer: computer/simulation_Engineer.md
     - ROS Engineer: computer/ROS_Engineer.md
-  - Electronics: electronics/README.md
+  - Electronics: 
+    - Index: electronics/README.md
+    - BMS Engineer: electronics/bms_Engineer.md
+    - PCB Designer: electronics/pcb_Designer.md
   - Marketing:
     - Index: marketing/README.md
     - Alumni Relations: marketing/alumni_relations.md
+    - Creative Coordinator: marketing/creative_Coordinator.md
     - Social media manager: marketing/Social_Media_Manager.md
     - Treasurer: marketing/treasurer.md
     - Sponsorship Coordinator: marketing/sponsorship.md
     - Event Manager: marketing/event_Manager.md
     - Media Manager: marketing/media_Manager.md
+    - Offline CF: marketing/offline_CF.md
+    - Online CF: marketing/online_CF.md
     - Workshop Coordinator: marketing/workshop_Coordinator.md 
   - Mechanical:
     - Index: mechanical/README.md

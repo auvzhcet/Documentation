@@ -32,7 +32,10 @@ nav:
     - Offline CF: marketing/offline_CF.md
     - Online CF: marketing/online_CF.md
     - Workshop Coordinator: marketing/workshop_Coordinator.md
-    - Student Reports: marketing/student_Reports/students.md
+    - Student Reports: 
+        - Index: marketing/student_Reports/students.md
+        - Aditi (19-20): marketing/student_Reports/aditi_2019_20.md
+        - Sabeela (19-20): marketing/student_Reports/sabeela_2019_20.md
  
   - Mechanical:
     - Index: mechanical/README.md

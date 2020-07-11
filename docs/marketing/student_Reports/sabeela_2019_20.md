@@ -20,7 +20,7 @@ The marketing team plays a vital role in promoting the business and mission of a
 
 - Engaging current customers and capturing new ones.
 
-- Learning new editing  softwares/applications.
+- Learning new editing  software/applications.
 
 ## ONLINE COURSES
 
@@ -37,7 +37,7 @@ The marketing team plays a vital role in promoting the business and mission of a
 
 ## PROCEDURE
 
-### LEARNING ABOUT NEW APPS/SOFTWARES
+### LEARNING ABOUT NEW APPS/SOFTWARE
 
 - Started using CANVA app, this tool acts like a user-friendly version of photoshop. Made use of its template and other feature for our posts.
 - Made use of the UNUM and PLANOLY  apps which enable us to handcraft layouts, tailor our grids, save posts to drafts and plan the perfect looking feed.
@@ -58,7 +58,7 @@ The marketing team plays a vital role in promoting the business and mission of a
 
 ### QUIZ MARATHON
 
-- We organised a one week quiz series – “ TECHNOLOGIA CHARGEMENT” which comprised if mcq questions  from computer, electrical /electronics and mechanical branches each.
+- We organised a one week quiz series – “ TECHNOLOGIA CHARGEMENT” which comprised if MCQ questions  from computer, electrical /electronics and mechanical branches each.
 - I designed the templates for these questions which were posted on our instagram story.
 - This helped our audience to get basic knowledge and a good number of people participated in it.
 - We got an overwhelming response and it helped with our engagement.

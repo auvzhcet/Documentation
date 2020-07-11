@@ -13,10 +13,13 @@ nav:
     - Computer vision: computer/computer_vision.md
     - Simulation Engineer: computer/simulation_Engineer.md
     - ROS Engineer: computer/ROS_Engineer.md
+    - Student Reports: computer/student_Reports/students.md
   - Electronics: 
     - Index: electronics/README.md
     - BMS Engineer: electronics/bms_Engineer.md
     - PCB Designer: electronics/pcb_Designer.md
+    - Student Reports: electronics/student_Reports/students.md
+
   - Marketing:
     - Index: marketing/README.md
     - Alumni Relations: marketing/alumni_relations.md
@@ -28,13 +31,20 @@ nav:
     - Media Manager: marketing/media_Manager.md
     - Offline CF: marketing/offline_CF.md
     - Online CF: marketing/online_CF.md
-    - Workshop Coordinator: marketing/workshop_Coordinator.md 
+    - Workshop Coordinator: marketing/workshop_Coordinator.md
+    - Student Reports: 
+        - Index: marketing/student_Reports/students.md
+        - Aditi (19-20): marketing/student_Reports/aditi_2019_20.md
+        - Sabeela (19-20): marketing/student_Reports/sabeela_2019_20.md
+ 
   - Mechanical:
     - Index: mechanical/README.md
     - Fabrication Engineer: mechanical/fabrication_Engineer.md
     - Simulation Engineer: mechanical/simulation_Engineer.md
     - Torpedo Engineer: mechanical/torpedo_Engineer.md
     - Prop Engineer: mechanical/prop_Engineer.md
+    - Student Reports: mechanical/student_Reports/students.md
+
     
 theme:
   name: material

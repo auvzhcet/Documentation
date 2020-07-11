@@ -13,3 +13,7 @@ Follow markdown format and files name ending with .md. For adding images create 
 ## Designations
 
 It is not necessary that each role has to be assigned to only one individual. The roles can be shared with respect to load of the work associated with it.
+
+## Resources
+
+[Student Reports](student_Reports/students.md)

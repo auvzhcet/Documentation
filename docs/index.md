@@ -6,7 +6,7 @@
 
 The sole purpose of this initiative is to keep on the chain of knowledge intact. The founding members had suffered the break in the lineage and took around three years to develop from scratch and we aren't even halfway through.
 This documentation is important for every member of the club. This will provide the upcoming batches of members to learn and tackle issues related to the tasks. This will also help your peers to understand the tasks performed and analyze it to give any positive feedback.
-Most importantly, this repositor will help the members to put up technical reports and it can provide a platform to showcase their work.
+Most importantly, this repository will help the members to put up technical reports and it can provide a platform to showcase their work.
 
 ### How to document
 
@@ -49,7 +49,7 @@ The report must be in the format:
 
 ```Introduction:``` small theory of the techniques/equipment used for the task to be done
 
-```Equipments/Softwares used:``` Hardware used, software with its versions
+```Equipments/Software used:``` Hardware used, software with its versions
 
 ```Procedure:``` Write in simple terms which when replicated by any team member. Pointwise.
 

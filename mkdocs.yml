@@ -19,7 +19,6 @@ nav:
     - BMS Engineer: electronics/bms_Engineer.md
     - PCB Designer: electronics/pcb_Designer.md
     - Student Reports: electronics/student_Reports/students.md
-
   - Marketing:
     - Index: marketing/README.md
     - Alumni Relations: marketing/alumni_relations.md
@@ -32,11 +31,7 @@ nav:
     - Offline CF: marketing/offline_CF.md
     - Online CF: marketing/online_CF.md
     - Workshop Coordinator: marketing/workshop_Coordinator.md
-    - Student Reports: 
-        - Index: marketing/student_Reports/students.md
-        - Aditi (19-20): marketing/student_Reports/aditi_2019_20.md
-        - Sabeela (19-20): marketing/student_Reports/sabeela_2019_20.md
- 
+    - Student Reports: marketing/student_Reports/students.md
   - Mechanical:
     - Index: mechanical/README.md
     - Fabrication Engineer: mechanical/fabrication_Engineer.md

@@ -29,14 +29,27 @@ Some other rules that everyone has to follow for uniformity in the information c
 
 #### Format of docs
 
-1. Always start with a heading.
-2. Describe the goal.
-3. Move on to describe the steps involved for reaching the goal (From theoretical knowledge - practical steps)
-    - This must include the links
-    - The **exact** steps to be followed from the given links(include the misconceptions and the blunders that you did while doing the same - be a senpai to a newborn!!!)
-    - The output/result
-    - [OPTIONAL but IMPORTANT] If the team members had chosen a different path earlier to execute the task and it turned out to be delusional; add those techniques and results too.
-4. Finish it off with writing the name of the team member who performed it with their contact details.
+The report must be in the format:
+
+```title:``` Title of the report
+
+```author(s):``` Name of the authors
+
+```email-id(s):```Email id of all the authors
+
+```Objective:``` Main goal of the task or learning
+
+```Introduction:``` small theory of the techniques/equipments used for the task to be done
+
+```Equipments/Softwares used:``` Hardware used, softwares with its versions
+
+```Procedure:``` Write in simple terms which when replicated by any team member. Point wise.
+
+```Results:``` if the work was completed OR expected result when the experiment couldn't be completed
+
+```Future work:``` what future steps can be taken to enhance your work
+
+**You can submit in .docx files or push to Github documentation repo.**
 
 ### Hierarchy of Submission
 

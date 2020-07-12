@@ -10,7 +10,12 @@ Most importantly, this will act as proof of the team member's work wherever he/s
 
 ### How to document
 
-Before commanding everyone to start writing, I would like to list why documenting is important.
+There are very few doc which actually make us understand how we should document. One of it is [The documentation system — Documentation system documentation](https://documentation.divio.com/)
+
+![overview](index_1.png)
+
+A very good guide resolcing why documentations are required in coding can be found here: [A beginner’s guide to writing documentation — Write the Docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+An insightful guide for why to document and how to document your technical writings. [What to write](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/#what-to-write), is it for the users or the develpoers who want to contribute to your project
 
 ### What to document
 

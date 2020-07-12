@@ -172,7 +172,7 @@ Temperature sensor:
 
 1. More time would be invested to gain more hands-on experience with the Raspberry Pi environment.
 2. To learn interfacing of sensors using pi in proteus.
-3. To learn about the future developments that can be made in the rov to tackle different problems.
+3. To learn about the future developments that can be made in the ROV to tackle different problems.
 4. Learning how to control speed and direction of dc motor.
 5. Designing battery management system.
-6. Learning more about the tether and power requirements for the rov.
+6. Learning more about the tether and power requirements for the ROV.

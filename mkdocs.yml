@@ -18,7 +18,9 @@ nav:
     - Index: electronics/README.md
     - BMS Engineer: electronics/bms_Engineer.md
     - PCB Designer: electronics/pcb_Designer.md
-    - Student Reports: electronics/student_Reports/students.md
+    - Student Reports: 
+        - Index: electronics/student_Reports/students.md
+        - Nidhi and Yusra (19-20): electronics/student_Reports/nidhi_yusra_2019_20.md
 
   - Marketing:
     - Index: marketing/README.md

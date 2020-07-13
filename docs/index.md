@@ -39,23 +39,23 @@ An insightful guide for why and how to document your technical writings can be f
 
 The report must be in the format:
 
-```title:``` Title of the report
+**title:** Title of the report
 
-```author(s):``` Name of the authors
+**author(s):** Name of the authors
 
-```email-id(s):```Email id of all the authors
+**email-id(s):** Email id of all the authors
 
-```Objective:``` Main goal of the task or learning
+**Objective:** Main goal of the task or learning
 
-```Introduction:``` small theory of the techniques/equipment used for the task to be done
+**Introduction:** small theory of the techniques/equipment used for the task to be done
 
-```Equipments/Software used:``` Hardware used, software with its versions
+**Equipments/Software used:** Hardware used, software with its versions
 
-```Procedure:``` Write in simple terms which when replicated by any team member. Pointwise.
+**Procedure:** Write in simple terms which when replicated by any team member. Pointwise.
 
-```Results:``` if the work was completed OR expected result when the experiment couldn't be completed
+**Results:** if the work was completed OR expected result when the experiment couldn't be completed
 
-```Future work:``` what future steps can be taken to enhance your work
+**Future work:** what future steps can be taken to enhance your work
 
 **You can submit in .docx files to the team members or directly push to this repository.**
 
@@ -81,7 +81,7 @@ The report must be in the format:
 5. Handle queries from any person trying to know about the content.
 6. Handle content from non-club members (Club alumni/experts).
 
-**NOTE:** The coordinator must make sure that the documentation can be put in the public domain with the permission of the authors. If the material provided has been submitted for publishing a research paper, the docs **must not be uploaded**, as this may ruin the opportunity of the paper to be published. The paper when published, can be linked in the docs, later.
+> **NOTE:** The coordinator must make sure that the documentation can be put in the public domain with the permission of the authors. If the material provided has been submitted for publishing a research paper, the docs **must not be uploaded**, as this may ruin the opportunity of the paper to be published. The paper when published, can be linked in the docs, later.
 
 ---
 

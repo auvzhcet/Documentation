@@ -4,46 +4,67 @@
 
 ### Why document
 
-The sole purpose of this initiative is to keep on the chain of knowledge intact. The founding members had suffered the break in the lineage and took around 3 years to develop from scratch and we don't want the upcoming teams to do the same.
-This documentation is important for each of the members of the club. This will be used by the next batch of members as well as junior members to learn and tackle issues related to the tasks from scratch. This will also help your peers to understand the tasks performed by you and analyze it to give any positive criticisms.
-Most importantly, this will act as proof of the team member's work wherever he/she applies for whether it be for masters or jobs. This will act as a 'Technical Report' and proof of your efforts while you stay in the club.
+The sole purpose of this initiative is to keep on the chain of knowledge intact. The founding members had suffered the break in the lineage and took around three years to develop from scratch and we aren't even halfway through.
+This documentation is important for every member of the club. This will provide the upcoming batches of members to learn and tackle issues related to the tasks. This will also help your peers to understand the tasks performed and analyze it to give any positive feedback.
+Most importantly, this repository will help the members to put up technical reports and it can provide a platform to showcase their work.
 
 ### How to document
 
-Before commanding everyone to start writing, I would like to list why documenting is important.
+There are very few docs that make us understand how, why and what to document. One of it is [The documentation system — Documentation system documentation](https://documentation.divio.com/)
+
+| ![overview](assets/index_1.png) |
+|:--:|
+| [*Source*](https://documentation.divio.com/) |
+
+A very good guide describing 'why documentations are required in coding?' can be found here:
+[A beginner’s guide to writing documentation — Write the Docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/).
+
+An insightful guide for why and how to document your technical writings can be found here: [What to write - Beginners Guide to docs - writethedocs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/#what-to-write).
 
 ### What to document
 
 1. Any novel procedure/technique used apart of previously documented work in the same field.
-2. Usage of new equipments/tools/softwares/boards that were not previously used and its usage had drastically improved the working of the vehicle.
-3. A new idea/concept (which has already proven by other teams but couldn't be completed under the team members tenure in the club and he/she has to transfer this idea to the juniors) that has been used for improving the efficiency and design of the vehicle.
-4. Any undocumented but significant basic procedure that is used in the working of the vehicle.
-5. Any undocumented work that was previously left incomplete/neglected by the seniors.
+2. Usage of new types of equipment/tools/software/boards that were not previously used and its usage had drastically improved the working of the vehicle.
+3. A new idea/concept that has been used for improving the efficiency and design of the vehicle. This idea may have been already proven by other teams but couldn't be completed under the team member's tenure in the club and he/she has to transfer this idea to the juniors.
+4. Any undocumented (significant) procedure that is used in the working of the vehicle.
+5. Any undocumented work that was previously left incomplete/missed by the seniors.
+6. Comparative studies - Survey of pros and cons of techniques or hardware/pieces of equipment, which will help in buying the best and efficient one.
 
 ### What NOT to document
 
-1. Those which do not have concrete evidence for the result (The student can better read plenty of research papers without a concrete goal).
-2. Comparative studies - This is not journal publishing stories. Here students must benefit from the technique and not stay confused while choosing one.
+1. Those which do not have concrete evidence for the result.
+2. Redundant information that has already been done by previous members.
 
-Some other rules that everyone has to follow for uniformity in the information collected:
+### Format of docs
 
-#### Format of docs
+The report must be in the format:
 
-1. Always start with a heading.
-2. Describe the goal.
-3. Move on to describe the steps involved for reaching the goal (From theoretical knowledge - practical steps)
-    - This must include the links
-    - The **exact** steps to be followed from the given links(include the misconceptions and the blunders that you did while doing the same - be a senpai to a newborn!!!)
-    - The output/result
-    - [OPTIONAL but IMPORTANT] If the team members had chosen a different path earlier to execute the task and it turned out to be delusional; add those techniques and results too.
-4. Finish it off with writing the name of the team member who performed it with their contact details.
+**title:** Title of the report
+
+**author(s):** Name of the authors
+
+**email-id(s):** Email id of all the authors
+
+**Objective:** Main goal of the task or learning
+
+**Introduction:** small theory of the techniques/equipment used for the task to be done
+
+**Equipments/Software used:** Hardware used, software with its versions
+
+**Procedure:** Write in simple terms which when replicated by any team member. Pointwise.
+
+**Results:** if the work was completed OR expected result when the experiment couldn't be completed
+
+**Future work:** what future steps can be taken to enhance your work
+
+**You can submit in .docx files to the team members or directly push to this repository.**
 
 ### Hierarchy of Submission
 
 1. The docs have to be written in the above format and then submitted to their respective team heads.
-2. The team heads will attest the completion of the work (OR IF NOT COMPLETED; he/she will give his witness about the experimentation performance).
-3. Compile all the docs from **all** the team members and submit to the coordinator.
-4. The coordinator will upload it on the central repository.
+2. The team heads will attest to the completion of the work (OR IF NOT COMPLETED; he/she will give his witness about the experimentation performance).
+3. Compile all the docs from **all** the team members and submit them to the coordinator.
+4. The coordinator will upload it to the central repository.
 
 ### Role of Team heads
 
@@ -55,57 +76,25 @@ Some other rules that everyone has to follow for uniformity in the information c
 
 1. Collect all the docs from each team head after rectification.
 2. Pull requests once the team head gives a green flag.
-3. Upload .txt files in the main repo and add the link in front of the respected topics.
+3. Convert .docx files into markdown.
 4. Handle any discrepancies from the team members.
 5. Handle queries from any person trying to know about the content.
 6. Handle content from non-club members (Club alumni/experts).
+
+> **NOTE:** The coordinator must make sure that the documentation can be put in the public domain with the permission of the authors. If the material provided has been submitted for publishing a research paper, the docs **must not be uploaded**, as this may ruin the opportunity of the paper to be published. The paper when published, can be linked in the docs, later.
 
 ---
 
 ## Teams
 
-1. [Computer](computer)
+The roles of various positions and documentation of tasks can be found in the respective teams' index page:
 
-2. [Electrical/Electronics](electronics)
+1. [Computer team](computer)
 
-3. [Marketing](marketing)
+2. [Electrical/Electronics team](electronics)
 
-4. [Mechanical](mechanical)
+3. [Marketing team](marketing)
 
----
-
-## Electrical/Electronics  
-
-### Battery Management Engineer
-
-The following document has been modified on 18th October 2018.
-
-[Doc given by Abbas bhai](https://github.com/auvzhcet/Documentation/blob/master/BMS%20for%20lithium%20polymer%20battery%20pack.docx)
-
-### PCB designer
-
-### Acoustic Engineer
-
-[Comparative Study of hydrophones used by other teams](https://github.com/auvzhcet/AUV2k19/blob/master/hydrophones_study.md)
-
-[Our implementation](https://github.com/auvzhcet/Documentation/blob/master/Acoustics.md)
+4. [Mechanical team](mechanical)
 
 ---
-
-## Computer
-
-### Computer Vision
-
-- Sampling of datasets
-- Which contour/box around the object is selected
-- Camera calibration
-
-### Robot Operating System (ROS) and Gazebo
-
-- Which tutorials to follow for beginner/intermediate levels - in order
-- How to handle the most common errors like ```package not found``` and others
-
-### Simulation Engineer
-
-1. [Gazebo](http://gazebosim.org/)
-2. [Unity](https://unity.com/)

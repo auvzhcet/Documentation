@@ -5,9 +5,11 @@ Follow markdown format and files name ending with .md. For adding images create 
 
 ## Table of content
 
-- [BMS for lithium polymer battery pack](BMS_for_lithium_polymer_battery_pack.md)
+- [BMS Engineer](bms_Engineer.md)
+- [PCB Engineer](pcb_Enginner.md)
 
 ## Resources
 
 [Student Reports](student_Reports/students.md)
+
 > Follow the [guidelines](../index.md#format-of-docs) given on the [Home](../index.md) page.

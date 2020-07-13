@@ -6,28 +6,40 @@ nav:
   - Development:
     - Code of conduct: Development/code_of_conduct.md
     - Contributing guidelines: Development/CONTRIBUTING.md
+    - Creating a repository guide: Development/Creating_a_Repository_guide.md
   - Computer:
     - Index: computer/README.md
     - Acoustics: computer/Acoustics.md
     - Computer vision: computer/computer_vision.md
     - Simulation Engineer: computer/simulation_Engineer.md
     - ROS Enginner: computer/ROS_Engineer.md
-  - Electronics: electronics/README.md
+    - Student Reports: computer/student_Reports/students.md
+  - Electronics: 
+    - Index: electronics/README.md
+    - BMS Engineer: electronics/bms_Engineer.md
+    - PCB Designer: electronics/pcb_Designer.md
+    - Student Reports: electronics/student_Reports/students.md
   - Marketing:
     - Index: marketing/README.md
     - Alumni Relations: marketing/alumni_relations.md
+    - Creative Coordinator: marketing/creative_Coordinator.md
     - Social media manager: marketing/Social_Media_Manager.md
     - Treasurer: marketing/treasurer.md
     - Sponsorship Coordinator: marketing/sponsorship.md
     - Event Manager: marketing/event_Manager.md
     - Media Manager: marketing/media_Manager.md
-    - Workshop Coordinator: marketing/workshop_Coordinator.md 
+    - Offline CF: marketing/offline_CF.md
+    - Online CF: marketing/online_CF.md
+    - Workshop Coordinator: marketing/workshop_Coordinator.md
+    - Student Reports: marketing/student_Reports/students.md
   - Mechanical:
     - Index: mechanical/README.md
     - Fabrication Engineer: mechanical/fabrication_Engineer.md
     - Simulation Engineer: mechanical/simulation_Engineer.md
     - Torpedo Engineer: mechanical/torpedo_Engineer.md
     - Prop Engineer: mechanical/prop_Engineer.md
+    - Student Reports: mechanical/student_Reports/students.md
+
     
 theme:
   name: material

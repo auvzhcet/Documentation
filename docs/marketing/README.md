@@ -21,6 +21,8 @@ In this club, you have to interact with freshers, alumni working in various fiel
 
 ## Resources
 
+[Student Reports](student_Reports/students.md)
+
 1. YCombinator start up schools library: <https://www.startupschool.org/library>
 It is a plethora of information at one place to make you think and understand how a start up works.
 

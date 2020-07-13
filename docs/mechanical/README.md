@@ -8,8 +8,12 @@ Follow markdown format and files name ending with .md. For adding images create 
 - [Fabrication Engineer](fabrication_Engineer.md)
 - [Simulation Engineer](simulation_Engineer.md)
 - [Torpedo Engineer](torpedo_Engineer.md)
-- [Prop Engineer](torpedo_Enginner.md)
+- [Prop Engineer](prop_Engineer.md)
 
 ## Designations
 
 It is not necessary that each role has to be assigned to only one individual. The roles can be shared with respect to load of the work associated with it.
+
+## Resources
+
+[Student Reports](student_Reports/students.md)

@@ -6,6 +6,10 @@ email-id: syedjawadakhtar@gmail.com
 
 ## Media Manager
 
+| ![media_manager_video.png](static/media_Manager_1.JPG) |
+|:--:|
+| Taking video at SAUVC 2018 (_Source: AUV ZHCET archives_)|
+
 1. Learn the usage of video editing software
     a. Adobe Premiere Pro
     b. SONY Vegas

@@ -15,6 +15,14 @@ This may be by mails, by visiting them or even by calling them.
 
 Proper money caps and services are used to divide sponsorships into: **Platinum, Gold, Silver, Bronze, Software sponsors and Outreach sponsors**.
 
+| ![sponsorhsip_4.png](static/sponsorship_4.png) |
+|:--:|
+| Gold and Silver Sponsors of AUV ZHCET (2019)([_Source_](http://auvzhcet.in/))|
+
+| ![sponsorhsip_5.png](static/sponsorship_5.png) |
+|:--:|
+| Alumni and Software Sponsors of AUV ZHCET (2019)([_Source_](http://auvzhcet.in/))|
+
 ### Table of Content
 
 1. [Offline Crowd Funding](offline_CF.md)

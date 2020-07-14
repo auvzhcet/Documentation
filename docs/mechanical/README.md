@@ -17,3 +17,4 @@ It is not necessary that each role has to be assigned to only one individual. Th
 ## Resources
 
 [Student Reports](student_Reports/students.md)
+> Follow the [guidelines](../index.md#format-of-docs) given on the [Home](../index.md) page.

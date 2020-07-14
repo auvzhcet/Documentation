@@ -4,6 +4,10 @@ author: Syed Jawad Akhtar
 email-id: syedjawadakhtar@gmail.com
 ---
 
+| ![alumni_meet_2018.png](static/alumni_Relations_1.JPG) |
+|:--:|
+| Our team booth at Alumni Meet 2018 (_Source: AUV ZHCET archives_)|
+
 ## Alumni Relations Officer
 
 This is one of the important roles in the management team, as it requires careful ways of managing our alumni. Alumni are passionate about their alma mater and have generously participated in the upliftment of the institution throughout the years. Even our first funding was done during an alumni meet. They are like our Angel Investors. Your task is to win their funds.

@@ -6,6 +6,10 @@ email-id: syedjawadakhtar@gmail.com
 
 ## Creative Coordinator
 
+| ![creative_Coordinator.png](static/creative_Coordinator_1.png) |
+|:--:|
+| Recruitment posters (_Source: AUV ZHCET Recruitment posts_)|
+
 The role of a creative coordinator is the same as the "Lead Advertisement Specialist" of a company. He/she has to convert every detail of the project in a graphically appealing art for the audience. The CC must be able to use simple lines and figures to transform them into aesthetic posters and designs.
 He/She must have at least done a **course on graphic designing** to understand the basics of what captures the mind of this fast-moving society.
 

@@ -8,7 +8,7 @@ email-id: syedjawadakhtar@gmail.com
 
 | ![workshop_coordinator_1.png](static/workshop_Coordinator_1.JPG) |
 |:--:|
-| Workshop held at Intergral University, Lucknow (_Source: AUV ZHCET archives_)|
+| Workshop held at Integral University, Lucknow (_Source: AUV ZHCET archives_)|
 
 _This role has to be in conjunction with any other role in club._
 The workshop coordinator has to be more likely to be under the sponsorship manager or the alumni relations officer, as it requires good interaction with connections.

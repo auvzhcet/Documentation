@@ -10,6 +10,14 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 2.Update the `README.md` file with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
 
+## Guidelines for adding images:
+
+- All the images/figures/diagrams must always be added to a subfolder static. Make the folder if it isn't present
+- ScreenShots should be considered over camera photos.
+- The format of naming the images must be: <document_name>_. eg. online_CF_1.png for image in Online Crowd Funding.
+- Images must be properly cropped, must not be showing OS or phone model/brand in the images.
+- Every image must have caption about describing shortly about the figure. (Adding the source of the image would be better)
+
 ## PULL REQUEST GUIDELINES
 
 1.Use the present tense imperative mood in the example commit message.

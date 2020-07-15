@@ -47,7 +47,7 @@ The following figure explains the workflow.
 
 Incorporating real-time information about the vehicle such as battery level and the effects of pressure.  
 
-### 1.7 Refrences
+### 1.7 References
 
 - Afzal, Afsoon & Katz, Deborah & Goues, Claire & Timperley, Christopher. (2020). A Study on the Challenges of Using Robotics Simulators for Testing. [Paper](https://www.semanticscholar.org/paper/A-Study-on-the-Challenges-of-Using-Robotics-for-Afzal-Katz/cef409421e17fd4b0a8a216b694338ce3e5e051d)
 - N. Koenig and A. Howard, “Design and use paradigms for Gazebo, an open-source multi-robot simulator,” in International Conference on Intelligent Robots and Systems, ser. IROS ’04, vol. 3, 2004, pp. 2149–2154 [Paper](https://scholar.google.com/scholar_lookup?title=Design%20and%20use%20paradigms%20for%20Gazebo,%20an%20open-source%20multi-robot%20simulator&author=N.%20Koenig%20&author=A.%20Howard)  

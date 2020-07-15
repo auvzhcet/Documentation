@@ -10,7 +10,6 @@ Follow markdown format and files name ending with .md. For adding images create 
 
 ## Resources
 
-<<<<<<< HEAD
 [Student Reports](student_Reports/students.md)
 
 > Follow the [guidelines](../index.md#format-of-docs) given on the [Home](../index.md) page.

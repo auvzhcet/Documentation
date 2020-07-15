@@ -1,9 +1,16 @@
+---
+Title: Report for the tech stack learned till now at AUV club, ZHCET
+Author: Yash Agarwal, Pranshi jindal, Saloni Gupta
+Email-Id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail.com
+---
+# Table of content
 
-| Title   |      Author     |  Email-Id  |
-|:----------:|:-------------:|:------:|
-| Report for the tech stack learned till now at AUV club, ZHCET | Yash Agarwal | yashagarwal1214@gmail.com |
-| | Pranshi Jindal | apranshi11@gmail.com |
-| | Saloni Gupta | saloniguptasg12@gmail.com |
+- [Git and Github](#Git-and-Github)
+- [Linux Command Interface](#Linux-Command-Interface)
+- [Computer Vision(OpenCv)](#Computer-Vision(OpenCv))
+- [Python](#Python)
+- [Raspberry Pi](#Raspberry-Pi)
+- [Web Development](#Web-Development)
 
 # Git and Github
 
@@ -13,7 +20,7 @@
 
 **Equipments/Software used**: Gitbash
 
-**Procedure** : Followed some tutorials. [Reference](https://www.youtube.com/watch?v=WbwIoQYP6no)
+**Procedure** : Followed tutorials. [Reference](https://www.youtube.com/watch?v=WbwIoQYP6no)
 
 **Results** : Completed
 
@@ -27,7 +34,7 @@
 
 **Equipments/Software used**: Linux OS.
 
-**Procedure**: Followed some tutorials. [Reference](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
+**Procedure**: Followed tutorials. [Reference](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
 
 **Results**: Completed
 
@@ -41,7 +48,7 @@
 
 **Equipments/Software used**: Pycharm.
 
-**Procedure**: Followed some tutorials. [Reference](https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)
+**Procedure**: Followed tutorials. [Reference](https://www.youtube.com/watch?v=kdLM6AOd2vc&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)
 
 **Results**: Completed
 
@@ -55,7 +62,7 @@
 
 **Equipments/Software used**: pycharm, python IDLE.
 
-**Procedure**: Followed some tutorials. [Reference](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+**Procedure**: Followed tutorials. [Reference](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 
 **Results**: Completed
 
@@ -69,7 +76,7 @@
 
 **Equipments/Software used**: Raspberry pi, raspbian, HDMI Cable, Memory Card, wires.
 
-**Procedure**: Followed some tutorials. [Reference](https://www.youtube.com/watch?v=RpseX2ylEuw&list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv)
+**Procedure**: Followed tutorials. [Reference](https://www.youtube.com/watch?v=RpseX2ylEuw&list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv)
 
 **Results**: In Progress
 
@@ -83,7 +90,7 @@
 
 **Equipments/Software used**: Visual studio code, AWS, cloud9.
 
-**Procedure**: Followed some youtube and udemy tutorials. [Reference](https://www.udemy.com/course/the-web-developer-bootcamp/)
+**Procedure**: Followed youtube and udemy tutorials. [Reference](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 **Results**: Completed
 

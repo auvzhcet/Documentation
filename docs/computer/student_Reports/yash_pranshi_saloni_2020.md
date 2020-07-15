@@ -1,7 +1,7 @@
 ---
-Title: Report for the tech stack learned till now at AUV club, ZHCET
-Author: Yash Agarwal, Pranshi jindal, Saloni Gupta
-Email-Id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail.com
+title: Report for the tech stack learned till now at AUV club, ZHCET
+author: Yash Agarwal, Pranshi jindal, Saloni Gupta
+email-id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail.com
 ---
 # Table of content
 

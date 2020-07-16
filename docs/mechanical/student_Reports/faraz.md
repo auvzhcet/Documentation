@@ -7,9 +7,9 @@ E-mail: farazomar.official@gmail.com
 ## Objective
 
 - Fabrication of Autonomous Underwater Vehicle (AUV) for SAUVC 2020.
-    - Fabrication of the Frame.
-    - Leak Proofing of the Frame.
-    - Buoyancy checking of the Frame.
+  - Fabrication of the Frame.
+  - Leak Proofing of the Frame.
+  - Buoyancy checking of the Frame.
 - To design and fabricate an electronic tray for the SEA 4.0.
 
 ## Introduction
@@ -18,74 +18,74 @@ AUV stands for autonomous underwater vehicle and is commonly known as unmanned u
 The following techniques and software were used for performing the tasks:
 
 - Material Cutting
-    - Cutting of layers of sheet of different materials like metal, plastic etc using appropriate tools.
+  - Cutting of layers of sheet of different materials like metal, plastic etc using appropriate tools.
 - Drilling
-    - Cutting process that uses a drill bit to cut a hole of circular cross-section in solid materials.
+  - Cutting process that uses a drill bit to cut a hole of circular cross-section in solid materials.
 - Filing
-    - A material removal process in manufacturing using a file.
+  - A material removal process in manufacturing using a file.
 - Surface Finishing
-    - Smoothening of the sharp/irregular surfaces to avoid cutting while handling the sheets.
+  - Smoothening of the sharp/irregular surfaces to avoid cutting while handling the sheets.
 - Hole Making
-    - Process of making holes on the surface for mounting purposes.
+  - Process of making holes on the surface for mounting purposes.
 - Leak Proofing
-    - Checking of any leaks in the hull to avoid short circuiting of the electronics hardware.
+  - Checking of any leaks in the hull to avoid short circuiting of the electronics hardware.
 - Buoyancy Checking
-    - To check the stability in the
+  - To check the stability in the
 
 ## Equipment/Software Used
 
 The various equipment used for the tasks are as follows:
 
 - __Hardware__
-    - Mechanical Equipments: Drill machine, Grinder, Double cut file, Jig saw, Bench vice, Wrench, Zip Ties.
-    - Materials: End caps, O rings, Nozzles, Thick aluminium rod (studs), M seal, Araldite, Silicon gel, Acrylic sheet, Stainless-steel u-shaped rods, Mounting rings for hull, Mounting rings for thrusters, Weight.
+  - Mechanical Equipments: Drill machine, Grinder, Double cut file, Jig saw, Bench vice, Wrench, Zip Ties.
+  - Materials: End caps, O rings, Nozzles, Thick aluminium rod (studs), M seal, Araldite, Silicon gel, Acrylic sheet, Stainless-steel u-shaped rods, Mounting rings for hull, Mounting rings for thrusters, Weight.
 - __Learning Platform__
-    - Google
-    - Udemy
-    - YouTube
+  - Google
+  - Udemy
+  - YouTube
 
 ## Procedure
 
 1. __Fabrication of the Frame.__
 
-For starting the fabrication of the AUV, we purchased the required materials and components. After that, the process of fabrication started by the following order:
+    For starting the fabrication of the AUV, we purchased the required materials and components. After that, the process of fabrication started by the following order:
 
-- Sheet Cutting
+    - Sheet Cutting
     - The acrylic sheets were cut by the dimensions of the CAD design with the help of grinder by applying proper cutting blades.
-- Working on Stainless Steel Frame
+    - Working on Stainless Steel Frame
     - Welding the stainless-steel rods to make an internal frame for the main frame to make it rigid.
-- Mounting of the frame
+    - Mounting of the frame
     - The acrylic sheets were then mounted to make the frame of the AUV.
-- Working on the hull
+    - Working on the hull
     - After the mounting of the hull we started working on the hull of the AUV. In that we drilled holes in the end caps for the nozzles and studs.
     - O rings were attached to the end caps and attached to the hull.
-- Attaching the hull in the frame
-- After the completing the work on the hull we installed the hull in the frame, which concluded the task.
+    - Attaching the hull in the frame
+    - After the completing the work on the hull we installed the hull in the frame, which concluded the task.
 
-| ![Final Frame](static/faraz_01.jpg) |
-|:--:|
-| Fig 1. Final Frame after complete fabrication |
+    | ![Final Frame](static/faraz_01.jpg) |
+    |:--:|
+    | Fig 1. Final Frame after complete fabrication |
 
 2. __Leak Proofing of the Frame.__
 
-After the fabrication of the frame we started the leak proofing of the hull to avoid the short circuiting of the electronic hardware.
+    After the fabrication of the frame we started the leak proofing of the hull to avoid the short circuiting of the electronic hardware.
 
-- Sealing the blank spaces
+    - Sealing the blank spaces
     - We sealed the spaces between the hull and the end cap by applying the mixture of araldite and silicon gel in the spaces.
-- Verifying
+    - Verifying
     - We tested the applied area by submerging it into water for long durations and it performed really well.
 
 3. __Buoyancy checking of the Frame.__
 
-After the leak proofing, we tested the whole frame in a swimming pool for its buoyancy in which it performed well.
+    After the leak proofing, we tested the whole frame in a swimming pool for its buoyancy in which it performed well.
 
 4. __Fabricate the electronic tray for the SEA 4.0.__
 
-For the fabrication of the electronic tray we used the acrylic sheets and zip ties. The acrylic sheet was tied around the aluminium studs of the previous electronic sheet to give extra working space.
+    For the fabrication of the electronic tray we used the acrylic sheets and zip ties. The acrylic sheet was tied around the aluminium studs of the previous electronic sheet to give extra working space.
 
-| ![Final prototype](static/faraz_02.jpg) |
-|:--:|
-| Fig 2. Final prototype of the electronic tray |
+    | ![Final prototype](static/faraz_02.jpg) |
+    |:--:|
+    | Fig 2. Final prototype of the electronic tray |
 
 ## Results
 

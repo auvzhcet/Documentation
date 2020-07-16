@@ -47,6 +47,9 @@ theme:
   hljs_languages:
     - yaml
     - django
+  features:
+    - instant
+    - tabs
   palette:
     primary: blue
     accent: blue

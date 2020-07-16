@@ -24,19 +24,18 @@ Our first objective is to use the optimum number of hydrophones to detect two pi
 The tasks:
 
 1. Yellow Flare - localization task
-This task aims to localize a yellow flare. There is only ONE  yellow flare is marked with an acoustic pinger. This flare could be located anywhere within the main arena. The AUV should locate and bump the flare causing the golf ball on the flare to drop out. The flares will be yellow in color.  
-Points would be awarded as follows. If the AUV successfully causes the ball to drop from :
-flare with the pinger: 40 Points
-[This task from the [rulebook of SAUVC 2018](https://sauvc.org/2018/)]
+    This task aims to localize a yellow flare. There is only ONE  yellow flare is marked with an acoustic pinger. This flare could be located anywhere within the main arena. The AUV should locate and bump the flare causing the golf ball on the flare to drop out. The flares will be yellow in color.  
+    Points would be awarded as follows. If the AUV successfully causes the ball to drop from :
+    flare with the pinger: 40 Points
+    [This task from the [rulebook of SAUVC 2018](https://sauvc.org/2018/)]
 
+    | ![yellow_Flare_animated](static/flare_Animation.png) |
+    |:--:|
+    | Fig. 1: Dimensions of the yellow flare. [_(Source)_](https://sauvc.org/rulebook/)|
 
-| ![yellow_Flare_animated](static/flare_Animation.png) |
-|:--:|
-| Fig. 1: Dimensions of the yellow flare. [_(Source)_](https://sauvc.org/rulebook/)|
-
-| ![yellow_Flare_underwater](static/yellow_Flare_water.png) |
-|:--:|
-| Fig. 2: Yellow flare underwater. [_(Source)_](https://sauvc.org/rulebook/)|
+    | ![yellow_Flare_underwater](static/yellow_Flare_water.png) |
+    |:--:|
+    | Fig. 2: Yellow flare underwater. [_(Source)_](https://sauvc.org/rulebook/)|
 
 2. Red Drums - target acquisitions task
 There are 4 colored drums in the arena. All of them are on a green mat of size 8m x 2m. One of the drums, chosen at random, will be blue in color, while the rest are red in color. One of the red drums, chosen at random, will contain an acoustic pinger. The AUV needs to drop a ball in one of the drums to complete this task. The location of the red drum which contains the acoustic pinger may be randomized between attempts, as may be the order of the drums.

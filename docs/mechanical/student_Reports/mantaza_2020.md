@@ -1,9 +1,10 @@
 ---
+title: AUV Club-work report
 author: Mantaza Mudassir 
 email-id: mantualig@gmail.com
 ---
 
-# OBJECTIVE
+## OBJECTIVE
 
 The main aim of designing Remotely operated underwater vehicle (ROV) are :
 

@@ -1,7 +1,7 @@
 ---
-Title: AUV Club-work report
-Author: Hashir Sohrab
-E-mail id: hashirk4@gmail.com
+title: AUV Club-work report
+author: Hashir Sohrab
+email-id: hashirk4@gmail.com
 ---
 
 ## Objective

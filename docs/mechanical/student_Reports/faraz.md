@@ -1,7 +1,7 @@
 ---
 title: Mechanical Tasks Final Report
-Author: Faraz Omar
-E-mail: farazomar.official@gmail.com
+author: Faraz Omar
+email-id: farazomar.official@gmail.com
 ---
 
 ## Objective

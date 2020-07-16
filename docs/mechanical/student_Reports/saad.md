@@ -1,7 +1,7 @@
 ---
-Title: Tasks Report
-Author: Mohammad Saad
-E-mail: mohdsaad736@gmail.com
+title: Tasks Report
+author: Mohammad Saad
+email-id: mohdsaad736@gmail.com
 ---
 
 ## Objectives

@@ -7,11 +7,11 @@ E-mail: mohdsaad736@gmail.com
 ## Objectives
 
 - Fabrication of Autonomous Underwater Vehicle (AUV).
-    - Fabrication of the frame.
+  - Fabrication of the frame.
 - Designing and fabrication of a Remotely Operated Vehicle (ROV).
-    - Designing and fabrication of frame.
-    - Designing and fabrication of hull.
-    - Designing and fabrication of gripper.
+  - Designing and fabrication of frame.
+  - Designing and fabrication of hull.
+  - Designing and fabrication of gripper.
 
 ## Introduction
 
@@ -21,15 +21,15 @@ A remotely operated vehicle (ROV) is an unoccupied underwater robot that is conn
 ## Equipment/Software Used
 
 - __Hardware__
-    - Mechanical Equipments: Drill machine, Grinder, Double cut file, Jig saw, Bench vice, Mallet, Chisel, Wrench, Nails.
-    - Materials: End caps, O rings, Nozzles, Aluminum sheet thin, thick aluminum sheet/rod (L), M seal, Silicon gel, acrylic sheet, mounting rings for hull , mounting rings for thrusters, weight, pvc sheet thick for arm.
+  - Mechanical Equipments: Drill machine, Grinder, Double cut file, Jig saw, Bench vice, Mallet, Chisel, Wrench, Nails.
+  - Materials: End caps, O rings, Nozzles, Aluminum sheet thin, thick aluminum sheet/rod (L), M seal, Silicon gel, acrylic sheet, mounting rings for hull , mounting rings for thrusters, weight, pvc sheet thick for arm.
 - Software
-    - SolidWorks 2020
-    - ANSYS 2019
-    - Learning Platform
-    - YouTube
-    - Google
-    - Udemy
+  - SolidWorks 2020
+  - ANSYS 2019
+  - Learning Platform
+  - YouTube
+  - Google
+  - Udemy
 
 ## Procedure
 

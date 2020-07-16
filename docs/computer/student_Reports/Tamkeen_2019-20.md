@@ -49,8 +49,8 @@ Incorporating real-time information about the vehicle such as battery level and 
 
 ### 1.7 Refrences
 
-- Afzal, Afsoon & Katz, Deborah & Goues, Claire & Timperley, Christopher. (2020). A Study on the Challenges of Using Robotics Simulators for Testing.
-- N. Koenig and A. Howard, “Design and use paradigms for Gazebo, an open-source multi-robot simulator,” in International Conference on Intelligent Robots and Systems, ser. IROS ’04, vol. 3, 2004, pp. 2149–2154  
+- Afzal, Afsoon & Katz, Deborah & Goues, Claire & Timperley, Christopher. (2020). A Study on the Challenges of Using Robotics Simulators for Testing. [Paper](https://www.semanticscholar.org/paper/A-Study-on-the-Challenges-of-Using-Robotics-for-Afzal-Katz/cef409421e17fd4b0a8a216b694338ce3e5e051d)
+- N. Koenig and A. Howard, “Design and use paradigms for Gazebo, an open-source multi-robot simulator,” in International Conference on Intelligent Robots and Systems, ser. IROS ’04, vol. 3, 2004, pp. 2149–2154 [Paper](https://scholar.google.com/scholar_lookup?title=Design%20and%20use%20paradigms%20for%20Gazebo,%20an%20open-source%20multi-robot%20simulator&author=N.%20Koenig%20&author=A.%20Howard)  
 
 ---  
 
@@ -78,7 +78,7 @@ Being a biology enthusiast as well, I am always inspired by natural systems. The
 - [Self-driving cars specialization](https://www.coursera.org/specializations/self-driving-cars)
 - [Introduction to Control Theory And Its Application to Computing Systems](https://www.cse.wustl.edu/~lu/papers/sigmetrics08_control.pdf)
 - [Process Controllers](https://www.engineeringtoolbox.com/process-controllers-d_499.html)
-- Liang, Xiao & Pang, Yongjie & Wan, Lei & Wang, Bo. (2009). Dynamic Modelling and Motion Control for Underwater Vehicles with Fins. 10.5772/6720.
+- Liang, Xiao & Pang, Yongjie & Wan, Lei & Wang, Bo. (2009). Dynamic Modelling and Motion Control for Underwater Vehicles with Fins. 10.5772/6720. [Paper](https://www.intechopen.com/books/underwater_vehicles/dynamic_modelling_and_motion_control_for_underwater_vehicles_with_fins)
 - [3Blue1Brown: Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=1)
 - [3Blue1Brown: But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY&pbjreload=101)
 - [3Blue1Brown: But what is a Fourier series? From heat flow to circle drawings](https://www.youtube.com/watch?v=r6sGWTCMz2k)

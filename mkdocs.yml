@@ -82,6 +82,9 @@ repo_url: https://github.com/auvzhcet/Documentation
 edit_uri: ""
 
 markdown_extensions:
+  - admonition
+  - codehilite:
+      linenums: true
   - toc:
       permalink: "#"
 

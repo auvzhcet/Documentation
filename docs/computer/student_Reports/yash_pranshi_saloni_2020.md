@@ -3,7 +3,8 @@ title: Report for the tech stack learned till now at AUV club, ZHCET
 author: Yash Agarwal, Pranshi jindal, Saloni Gupta
 email-id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail.com
 ---
-# Table of content
+
+## Table of content
 
 - [Git and Github](#Git-and-Github)
 - [Linux Command Interface](#Linux-Command-Interface)
@@ -12,7 +13,7 @@ email-id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail
 - [Raspberry Pi](#Raspberry-Pi)
 - [Web Development](#Web-Development)
 
-# Git and Github
+## Git and Github
 
 **Objective**: To learn git and github.
 
@@ -26,7 +27,7 @@ email-id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail
 
 **Future work** : To collaborate with team on bigger projects.
 
-# Linux Command Interface
+## Linux Command Interface
 
 **Objective**: To get comfortable with the Linux Command Line.
 
@@ -40,7 +41,7 @@ email-id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail
 
 **Future work**: To contribute in major open source projects.
 
-# Computer Vision(OpenCv)
+## Computer Vision(OpenCv)
 
 **Objective**: To learn object detection, Image processing, video processing.
 
@@ -54,7 +55,7 @@ email-id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail
 
 **Future work**: To use this technology in our ROV to detect objects.
 
-# Python
+## Python
 
 **Objective**: To explore the language and understand the code written using OpenCV.
 
@@ -68,7 +69,7 @@ email-id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail
 
 **Future work**: To write scripts using OpenCV-python for the ROV.
 
-# Raspberry Pi
+## Raspberry Pi
 
 **Objective**: To learn how to work with raspberry pi.
 
@@ -82,7 +83,7 @@ email-id: yashagarwal1214@gmail.com, apranshi11@gmail.com, saloniguptasg12@gmail
 
 **Future work**: To use in ROV project.
 
-# Web Development
+## Web Development
 
 **Objective**: To make interactive websites/webapps.
 

@@ -48,6 +48,7 @@ theme:
     - yaml
     - django
   features:
+    - instant
     - tabs
   palette:
     primary: blue

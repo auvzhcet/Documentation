@@ -59,6 +59,21 @@ theme:
   favicon: assets/favicon.ico
   logo: assets/favicon.ico
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/auvzhcet
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/auv_zhcet
+    - icon: fontawesome/brands/linkedin
+      link: https://in.linkedin.com/in/auv-zhcet-club
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/auvzhcetclub/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/auv_zhcet/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCKnOMeEqaWUOpE7iYwUnzDg
+
 site_url: https://auv-doc.readthedocs.io/
 site_description: Project documentation with Markdown.
 site_author: pnijhara
@@ -70,7 +85,7 @@ markdown_extensions:
   - toc:
       permalink: "#"
 
-copyright: Copyright &copy; 2020 <a href="https://twitter.com/auvzhcet">AUV-ZHCET</a>, Maintained by <a href="https://twitter.com/NijharaPrajjwal">@pnijhara</a>.
+copyright: Copyright &copy; 2020 <a href="http://auvzhcet.in/">AUV-ZHCET</a>, Maintained by <a href="https://twitter.com/NijharaPrajjwal">@pnijhara</a>.
 
 plugins:
   - search

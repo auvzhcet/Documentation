@@ -51,8 +51,8 @@ theme:
     - instant
     - tabs
   palette:
-    primary: blue
-    accent: blue
+    primary: black
+    accent: red
   font:
     text: Ubuntu
     code: Ubuntu Mono

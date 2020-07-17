@@ -81,7 +81,8 @@ The report must be in the format:
 5. Handle queries from any person trying to know about the content.
 6. Handle content from non-club members (Club alumni/experts).
 
-> **NOTE:** The coordinator must make sure that the documentation can be put in the public domain with the permission of the authors. If the material provided has been submitted for publishing a research paper, the docs **must not be uploaded**, as this may ruin the opportunity of the paper to be published. The paper when published, can be linked in the docs, later.
+!!! note
+    The coordinator must make sure that the documentation can be put in the public domain with the permission of the authors. If the material provided has been submitted for publishing a research paper, the docs **must not be uploaded**, as this may ruin the opportunity of the paper to be published. The paper when published, can be linked in the docs, later.
 
 ---
 

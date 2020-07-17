@@ -4,5 +4,8 @@ All the student reports from the marketing team has to be uploaded here in the g
 
 Format: [Designation - Team - Name - Academic Year] (Link to the doc)
 
+!!! example
+    Marketing Team - AUV ZHCET - XYZ - 2019-20
+
 - [HR - SEA ROV ZHCET - Aditi Jaiswal - 2019-20](aditi_2019_20.md)
 - [Mangement Intern - SEA ROV ZHCET - Sabeela Fatima - 2019-20](sabeela_2019_20.md)

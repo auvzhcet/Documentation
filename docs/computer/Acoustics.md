@@ -15,7 +15,9 @@ An acoustic localization system detects a frequency emitting source at a distanc
 ## Goal
 
 The types of equipment used are comparatively costly and complicated to make this system fuse with the operations of the vehicle. For this reason, the points to accomplish the tasks including a pinger is higher as compared to other tasks.
-Check [SAUVC Rulebook](https://sauvc.org/rulebook/) and [mission and scoring](https://robosub.org/resources/) of Robosub competitions.
+
+!!! seealso "Check out"
+    [SAUVC Rulebook](https://sauvc.org/rulebook/) and [mission and scoring](https://robosub.org/resources/) of Robosub competitions.
 
 ### Objective
 
@@ -38,11 +40,12 @@ The tasks:
     | Fig. 2: Yellow flare underwater. [_(Source)_](https://sauvc.org/rulebook/)|
 
 2. Red Drums - target acquisitions task
-There are 4 colored drums in the arena. All of them are on a green mat of size 8m x 2m. One of the drums, chosen at random, will be blue in color, while the rest are red in color. One of the red drums, chosen at random, will contain an acoustic pinger. The AUV needs to drop a ball in one of the drums to complete this task. The location of the red drum which contains the acoustic pinger may be randomized between attempts, as may be the order of the drums.
-Points will be awarded as follows.
-Drop the ball in the blue drum: 30 Points
-Drop the ball in the red drum with the pinger: 50 Points
-Dropping the ball in any other red drum: 10 Points
+There are 4 colored drums in the arena. All of them are on a green mat of size 8m x 2m. One of the drums, chosen at random, will be blue in color, while the rest are red in color. One of the red drums, chosen at random, will contain an acoustic pinger. The AUV needs to drop a ball in one of the drums to complete this task. The location of the red drum which contains the acoustic pinger may be randomized between attempts, as may be the order of the drums.  
+Points will be awarded as follows:
+
+    - Drop the ball in the blue drum: 30 Points
+    - Drop the ball in the red drum with the pinger: 50 Points
+    - Dropping the ball in any other red drum: 10 Points
 
 | ![drums](static/drums.png) |
 |:--:|
@@ -81,10 +84,11 @@ Key features:
 ## Future Work
 
 The assembly of all the components at one place and its optimization is required:
-1.Connecting all 3 hydrophones to a microcontroller to receive input without wire/connection interference
-2.Processing of audio signals for higher frequencies (50 kHz)
-3.Attaching to the vehicle at a certain angle
-4.Testing to eradicate reflections of signals form props and sidewalls of swimming pool
+
+1. Connecting all 3 hydrophones to a microcontroller to receive input without wire/connection interference
+2. Processing of audio signals for higher frequencies (50 kHz)
+3. Attaching to the vehicle at a certain angle
+4. Testing to eradicate reflections of signals form props and sidewalls of swimming pool
 
 ## References
 

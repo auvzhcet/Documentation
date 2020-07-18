@@ -7,7 +7,7 @@ Follow markdown format and files name ending with .md. For adding images create 
 ## Table of content
 
 - [BMS Engineer](bms_Engineer.md)
-- [PCB Engineer](pcb_Enginner.md)
+- [PCB Engineer](pcb_Designer.md)
 
 ## Resources
 

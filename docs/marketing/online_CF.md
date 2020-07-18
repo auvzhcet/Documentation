@@ -8,11 +8,12 @@ email-id: syedjawadakhtar@gmail.com
 
 Online crowdfunding is usually done on crowdfunding platforms like [ketto](https://www.ketto.org/), [backmytalent](https://www.backmytalent.com/) or [milap](https://milaap.org/). Our online crowdfunding campaigns usually range from 1-6 months. These platforms help us credible fundraisers and get extensive help from their organizing teams.
 
-Our past online crowd fundings on ketto and backmytalent:
+!!! seealso "Check out"
+    Our past online crowd fundings on ketto and backmytalent:
 
-1. [SAUVC 2018](https://www.ketto.org/fundraiser/teamsea)
-2. [SAVe 2019](https://www.backmytalent.com/#/project/14/autonomous-underwater-vehicle-from-students-of-auv-zhcet-club) - Checkout the "service plan" in this campaign
-3. [SAUVC 2020](https://www.ketto.org/fundraiser/zhcetsauvc20)
+    1. [SAUVC 2018](https://www.ketto.org/fundraiser/teamsea)
+    2. [SAVe 2019](https://www.backmytalent.com/#/project/14/autonomous-underwater-vehicle-from-students-of-auv-zhcet-club) - Checkout the "service plan" in this campaign
+    3. [SAUVC 2020](https://www.ketto.org/fundraiser/zhcetsauvc20)
 
 ### Guide for setting up Online crowdfunding
 
@@ -48,7 +49,8 @@ Our past online crowd fundings on ketto and backmytalent:
     - Major milestones must be updated on social media platforms and on the fundraising platform to thank the contributors.
     - The momentum of the campaign has to be **regularly** amplified to make maximum contributions.
 
-> _One of the major amounts deposited during the SAUVC 2018 campaign was due to our member (Marzooqs) LinkedIn post which was tags to almost all prominent professors including Prof. M. M. Sufyan sir. This post was seen by an Alumni in the U.S. who contributed around 60,000/- Rs to AUV ZHCET as well as SAE ZHCET club._
+!!! info ""
+    _One of the major amounts deposited during the SAUVC 2018 campaign was due to our member (Marzooqs) LinkedIn post which was tags to almost all prominent professors including Prof. M. M. Sufyan sir. This post was seen by an Alumni in the U.S. who contributed around Rs 60,000/- to AUV ZHCET as well as SAE ZHCET club._
 
 4.Post campaign
     - Either the campaign ends by time OR by achieving the target amount - **Appreciation must be sent to the contributors**
@@ -56,7 +58,8 @@ Our past online crowd fundings on ketto and backmytalent:
     - Keep the contributors updated about the club activities by adding them in the "Contributors mailing list".
     - A collage of all the names of contributors can be made and posted on the vehicle or the "Hall of Fame" in the club.
 
-> **Note: These campaigns are viewed by experienced alumni/persons with a very strong financial background. So any minor discrepancy can be easily pointed out and it can lead to complete failure of the campaign. No Bluffing!!! So the "funds required" must go through several revisions before going live.**
+!!! note
+    These campaigns are viewed by experienced alumni/persons with a very strong financial background. So any minor discrepancy can be easily pointed out and it can lead to complete failure of the campaign. No Bluffing!!! So the "funds required" must go through several revisions before going live.**
 
 ### Resources
 

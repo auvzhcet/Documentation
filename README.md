@@ -163,7 +163,7 @@ The following document has been modified on 18th October 2018
 2. Different audience attracting techniques
 3. Posting and boosting of posts on different handles
 
-## Teams
+## Team
 
 1. [Mechanical](mechanical/README.md)
 2. [Electrical/Electronics](electronics/README.md)

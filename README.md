@@ -2,8 +2,6 @@
 
 [![Documentation Status](https://readthedocs.org/projects/auvdocs/badge/?version=latest)](https://auvdocs.readthedocs.io/en/latest/?badge=latest)
 
----
-
 ## Rules and directions for documentation
 
 ### Why document
@@ -163,7 +161,7 @@ The following document has been modified on 18th October 2018
 
 ## Teams
 
-1. [Mechanical](mechanical/README.md)
-2. [Electrical/Electronics](electronics/README.md)
-3. [Computer](computer/README.md)
-4. [Management](marketing/README.md)
+1. [Mechanical](docs/mechanical/README.md)
+2. [Electrical/Electronics](docs/electronics/README.md)
+3. [Computer](docs/computer/README.md)
+4. [Management](docs/marketing/README.md)

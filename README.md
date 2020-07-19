@@ -1,8 +1,6 @@
 # Documentation
 
-[![Documentation Status](https://readthedocs.org/projects/auv-doc/badge/?version=latest)](https://auv-doc.readthedocs.io/en/latest/?badge=latest)
-
-Read full documentation here at [auv-doc.readthedocs.io/](https://auv-doc.readthedocs.io/en/latest/)
+[![Documentation Status](https://readthedocs.org/projects/auvdocs/badge/?version=latest)](https://auvdocs.readthedocs.io/en/latest/?badge=latest)
 
 ---
 

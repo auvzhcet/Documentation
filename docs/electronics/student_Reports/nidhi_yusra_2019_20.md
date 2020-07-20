@@ -94,14 +94,14 @@ Temperature sensor:
 - Open proteus and add the components available within the Proteus Components Library in the workspace.
 - Components:
 
-    - Arduino
-    - LM35 sensor
-    - The VCC pin of LM35 is connected to +5V of Arduino board.
-    - Output pin is connected to ‘A0’ pin of Arduino board.
-    - Last pin is connected to the GND pin of Arduino board.
-    - After connecting the circuit, now write the code.
-    - Create the hex file and upload it in Proteus.
-    - Hit run.
+  - Arduino
+  - LM35 sensor
+  - The VCC pin of LM35 is connected to +5V of Arduino board.
+  - Output pin is connected to ‘A0’ pin of Arduino board.
+  - Last pin is connected to the GND pin of Arduino board.
+  - After connecting the circuit, now write the code.
+  - Create the hex file and upload it in Proteus.
+  - Hit run.
 
 | ![Connection](../static/nidhi_yusra_2019_20(1).jpg) |
 |:--:|
@@ -148,16 +148,16 @@ Temperature sensor:
 - The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is a capable little device that enables people of all ages to explore computing, and to learn how to program in languages like Scratch and Python. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
 - Firstly, we started learning python from online courses. We started by getting Python installed. It covers a wide variety of topics, including:
 
-    - Command Line Basics
-    - Installing Python
-    - Running Python Code
-    - Strings, Lists, Dictionaries, Tuples, Sets
-    - Functions, Built-in Functions
-    - Scope
-    - args/kwargs
-    - Debugging and Error Handling
-    - Object Oriented Programming
-    - File I/O
+  - Command Line Basics
+  - Installing Python
+  - Running Python Code
+  - Strings, Lists, Dictionaries, Tuples, Sets
+  - Functions, Built-in Functions
+  - Scope
+  - args/kwargs
+  - Debugging and Error Handling
+  - Object Oriented Programming
+  - File I/O
 
 - For the interfacing of sensors in proteus using raspberry pi we needed the library for pi, but we were not able to find it anywhere so we had to stop that in between.
 

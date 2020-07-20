@@ -6,11 +6,9 @@ A *[git repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repo
 
 ## SETTING UP A REPOSITORY (Repo) UNDER THE GIT VERSION CONTROL
 
-[How to set-up Git on your device](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
-
 ### Initializing a new repository
 
-To create a new repo, you'll use the `git init` command. git init is a one-time command you use during the initial setup of a new repo. Executing this command will create a new **.git**   subdirectory in your current working directory. This will also create a new branch called master.
+To create a new repo, you'll use the `git init` command. `git init` is a one-time command you use during the initial setup of a new repo. Executing this command will create a new '**.git**'   subdirectory in your current working directory. This will also create a new branch called master (by default).
 
 ### Versioning an existing project with a new git repository
 
@@ -18,17 +16,18 @@ Assuming you already have a project directory and you would like to create a rep
 
 * First cd into root project directory.
 * execute `git init`
-This will as mentioned above create same **.git** subdirectory but scoped to that project dir.
+
+This will, as mentioned above, create the same **.git** subdirectory but scoped to that project dir.
 
 ### Cloning an existing repo
 
-If a project has been set up in a central repository, the **clone** command is the most common way to obtain a local development clone.Once a developer(contributor) has obtained a working copy, all version control operations are managed through their local repository.
+If a project has been set up in a central repository, the **clone** command is the most common way to obtain a local development clone. Once a developer (contributor) has obtained a working copy, all version control operations are managed through their local repository.
 
 ```console
 $foo@bar git clone <repo url>
 ```  
 
- git clone creates a local clone of remote repo.
+`git clone` creates a local clone of remote repo.
 
 The URL can be found on this page under **CODE** dropdown can be found [on this page.](https://github.com/auvzhcet/Documentation)
 
@@ -58,3 +57,6 @@ If *git clone* was used in initializing a new repository , then this repo is alr
 git clone  will automatically configure the repo with a remote pointed to the Git URL cloned it from. This means that once changes made to a file are committed, they  can be pushed using `git push` those changes to the remote repository.
 
 If you prefer to host your own remote repo initialized with `git init`, you'll need to set up a "Bare Repository." Both `git init` and `git clone` accept a `--bare` argument. The most common use case for bare repo is to create a remote central Git repository.
+
+!!! seealso "See also"
+    [How to set-up Git on your device](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)

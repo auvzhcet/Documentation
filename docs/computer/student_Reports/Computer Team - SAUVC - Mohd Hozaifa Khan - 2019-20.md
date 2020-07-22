@@ -14,9 +14,9 @@ Under the Guidance of
 
 **Dr. Saleem Anwar Khan**
 
-_Associate Professor, Mechanical Engg, ZHCET_
+_Associate Professor, Mechanical Engg., ZHCET_
 
-_Teacher Incharge_, **_AUV Club_**
+_Teacher In-charge_, **_AUV Club_**
 
 Submitted on: *20th July 2020*
 
@@ -37,13 +37,13 @@ Note: _Only Mask detection system was developed. So this report only covers that
 3. [Methodology](#methodology)
 4. [Problems faced](#problems-faced)
 5. [Conclusion](#conclusion)
-6. [Future Developement](#future-developement)
+6. [Future Development](#future-developement)
 
 ---
 
 ## Introduction
 
-The year 2020 has been pretty harsh and evidently threw a lot thorns in our ways. Overcoming these trails and tribulations is also upto us. And, the hardest trial has been defeating COVID-19 pandemic which has already engulfed almost a lakh people now.
+The year 2020 has been pretty harsh and evidently threw a lot thorns in our ways. Overcoming these trails and tribulations is also up to us. And, the hardest trial has been defeating COVID-19 pandemic which has already engulfed almost a lakh people now.
 
 Having an automatic system to filter out possible Corona infected people can act as a first line of prevention.
 The system will detect body temperature of person entering the main gate as well as verify whether the person is wearing face mask (also properly) and then take a decision to allow or refer to concerned authorities.
@@ -68,15 +68,15 @@ The system will detect body temperature of person entering the main gate as well
 
 ## Methodology
 
-Detecting face mask can be simplified as a classification task of wearing a mask or not wearing a mask and localising that object. So, we used transfer learning to train a pre-trained Object Detection model and fine-tune it for our task. 
+Detecting face mask can be simplified as a classification task of wearing a mask or not wearing a mask and localizing that object. So, we used transfer learning to train a pre-trained Object Detection model and fine-tune it for our task.
 
 We used YOLO framework for Object Detection. YOLO being one of many Single Shot object detection techniques proves to be a good option giving a considerable FPS and accuracy in practical applications.
-We especially trained it on few Adversarial Cases so as to equip our system to detect possible fraudulent attempts and fool the system. These case can be covering your faces or using techiques to simply cover nose and mouth temporarily.
+We especially trained it on few Adversarial Cases so as to equip our system to detect possible fraudulent attempts and fool the system. These case can be covering your faces or using techniques to simply cover nose and mouth temporarily.
 
 ### [YOLO](https://pjreddie.com/darknet/yolo/)
 
 It stands for You Only Look Once.
-Based on Darknet Framework which is a C++ based Deep Learning framwork. Also available in other frameworks.
+Based on Darknet Framework which is a C++ based Deep Learning framework. Also available in other frameworks.
 Written by Joseph Redmon and Ali Farhadi.
 
 #### Concept of YOLO in brief
@@ -113,7 +113,7 @@ PASS
 
 ## Further Development
 
-The actial testing of any system is only possible in actual scenario. There is a possiblity of few problems:
+The actual testing of any system is only possible in actual scenario. There is a possibility of few problems:
 
 * Adversarial Cases
 * Lower FPS
@@ -121,13 +121,12 @@ The actial testing of any system is only possible in actual scenario. There is a
 
 For adversarial cases we can have more diverse dataset with various cases that we might encounter. I have one such dataset which can help system detect type of mask, handkerchief on face, etc. The model can trained on such dataset to make it more robust and immune to adversarial attacks.
 
-Other object detection techniques can be utilised and practically tested for better performance and accuracy.  
+Other object detection techniques can be utilized and practically tested for better performance and accuracy.  
 Few Options are:
 
 * [EfficientDet](http://ai.googleblog.com/2020/04/efficientdet-towards-scalable-and.html) - Scalable and Efficient Object Detection by Google.
 * SSD with MobileNetv3 or EfficientNetB4 - proven to work very well on Raspberry Pi.
 * YOLOv5 - released few days ago.
-* etc
 
 ## Resources
 
@@ -135,4 +134,4 @@ Few Options are:
   - [Understanding YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
   - [Train on Custom Dataset](https://blog.roboflow.ai/training-yolov4-on-a-custom-dataset/)
   - [What's new in YOLOv4?](https://towardsdatascience.com/whats-new-in-yolov4-323364bb3ad3)
-  - [Another good Expalaination](https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006)
+  - [Another good Explanation](https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006)

@@ -1,5 +1,3 @@
-![AUV LOGO](../auv-logo.png)
-
 # Report on: **Acoustic Source Localisation Subsystem**
 
 > _Under AUV_ during Summer 2020

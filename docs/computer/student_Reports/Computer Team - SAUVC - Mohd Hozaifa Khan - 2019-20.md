@@ -1,6 +1,5 @@
-![AUV LOGO](../auv-logo.png)
-
 # Report on Precautionary System during  COVID-19 for ZHECT
+
 > _under AUV_
 
 ---

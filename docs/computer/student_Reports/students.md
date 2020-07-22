@@ -8,3 +8,4 @@ Format: [Designation - Team - Name - Academic Year] (Link to the doc)
     Computer Team - AUV ZHCET - XYZ - 2019-20
 
 - [Computer Team - SEA ROV ZHCET - Pranshi, Saloni & Yash](yash_pranshi_saloni_2020.md)
+- [Initial Acoustics implementation - SAUVC - Syed Jawad Akhtar - 2019](syed_jawad_akhtar_2019.md)

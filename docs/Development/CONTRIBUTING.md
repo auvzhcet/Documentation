@@ -10,6 +10,14 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 2.Update the `README.md` file with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
 
+## Guidelines for adding images:
+
+- All the images/figures/diagrams must always be added to a subfolder static. Make the folder if it isn't present
+- ScreenShots should be considered over camera photos.
+- The format of naming the images must be: <document_name>_. eg. <ins>online_CF_1.png</ins>  for image in Online Crowd Funding.
+- Images must be properly cropped, must not be showing OS or phone model/brand in the images.
+- Every image must have caption about describing shortly about the figure. (Adding the source of the image would be better)
+
 ## PULL REQUEST GUIDELINES
 
 1.Use the present tense imperative mood in the example commit message.
@@ -18,6 +26,11 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 3.You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
 
+4.Never change a large of files (change iff required).
+
+5.Never leave empty whitespaces after the EOL.
+
+6.Give 2 spaces instead of giving a tab.
 ### References
 
 - [Convetional commits](https://www.conventionalcommits.org/en/v1.0.0/)

@@ -53,11 +53,20 @@ For navigation there is always requirement of a good Positioning system, similar
 
 ### SSL
 
-There have been various techniques and methods developed for SSL. [Multilateration][multilateration] has already been in application for many years. Others methods are Beamforming, Eigen Vectors based, Neural Networks based, etc. To read in detail click [Here][review-paper] for a Review paper on SSL.
+There have been various techniques and methods developed for SSL<sup>[[2]](#ssl)</sup>. [Multilateration][multilateration] has already been in application for many years. Others methods are Beamforming, Eigen Vectors based, Neural Networks based, etc. To read in detail click [Here][review-paper] for a Review paper on SSL.
 
-### SSL: TDoA
+We have used Multilateration from the possible options as it is simple and requires lesser equipment. To quote Wikipedia, Multilateration is a navigation and surveillance technique based on measurement of the times of arrival (TOAs) of energy waves (radio, acoustic, seismic, etc.) having a known propagation speed. Prior to computing a solution, the time of transmission (TOT) of the waves is unknown to the receiver.
 
-One of most used multilateration techniques is TDOA or Time Difference of Arrival method. It is similar to Inter-neural.  
+There are 3 common techniques under multilateration viz. Received Signal Strength (RSS), Time of Arrival (TOA) and Time Difference of Arrival (TDOA<sup>[[1]](#tdoa)</sup>).
+
+As pointed out in [this paper](https://ieeexplore.ieee.org/document/5342476/), 
+> the accuracy of TOA- and TDOA<sup>[[1]](#tdoa)</sup>-based localization techniques is better than that of RSS-based localization technique. Moreover, the TOA-based localization technique requires knowledge of the transmission time of the received signal from the transmitter, which is not necessary for TDOA-based localization technique. 
+
+Thus, we focused on TDOA-based localization technique.
+
+### SSL: TDOA
+
+One of most used multilateration techniques is TDOA <sup>[[1]](#tdoa)</sup> or Time Difference of Arrival method. It is similar to Inter-neural.  
 
 Consider the simplest case of Multilateration and TDoA for sound source localization.
 
@@ -90,18 +99,24 @@ Most of the development in this technique has been on improving the accuracy of 
 **Hardware**:
 
 + 2 Microphones ( Samsung in-ear Headphones )
-+ 2 Audio to USB convertors
++ 2 Audio to USB convertors<sup>[[4]](#soundcard)</sup>, which are basically Sound Card Controllers.
 + Laptop
+
+![sound-card](./sound-card.png)
 
 ---
 
 ## Methodology
 
-We have simply tried to determine the direction of arrival with a resolution of **90 degrees!!**. In simple terms : _left or right_.
+We have simply tried to determine the direction of arrival with a resolution of **90 degrees!!**. In simple terms : _left or right_. We placed the two microphones at distance of approximately 20cm and connected them to the computer via audio to USB convertors (sound cards). 
 
-We haven't gone with the sophisticated way of calculating TDOA or improving the accuracy of Cross correlation using GCC (Generalized Cross-Correlation). We simply determined the sign of Rxy (Cross Correlation Coefficient) and determined the orientation.
+Two different Object Streams created by PyAudio keeps listening to the ports on which microphones were attached. We get two different Audio Signals. Remove noise. filter out based on frequency. 
 
-We didn't try it practically, but a simple `numpy.argmax()` of Rxy gives the TDOA, which can be used for Angle Calculation.
+Perform RXY. 
+
+We haven't gone with the sophisticated way of calculating TDOA or improving the accuracy of Cross correlation using GCC (Generalized Cross-Correlation). We simply determined the sign of R<sub>xy</sub><sup>[[3]](#rxy)</sup> (Cross Correlation Coefficient) and determined the orientation.
+
+We didn't try it practically, but a simple `numpy.argmax()` of R<sub>xy</sub> gives the TDOA, which can be used for Angle Calculation.
 
 ## Results and Performance
 
@@ -117,7 +132,7 @@ Accuracy: Works in some cases.
 
 ### Lack of Audio jack ports
 
-First problem was the lack of no. of input *AUDIO ports*. Most of the Microphones currently support AUDIO jack as input to system. There are mostly single USB jack port available in a PC, Board, etc. It was very difficult to receive acoustic data from 2 different devices at the same time.
+The first problem was the lack of no. of input *AUDIO ports*. Most of the Microphones currently support AUDIO jack as input to the system. There is mostly a single USB jack port available in a PC, Board, etc. It was very difficult to receive acoustic data from 2 different devices at the same time.
 
 #### _Our Solution_
 
@@ -152,9 +167,19 @@ Later on this Tech has to be transferred to Underwater Localization using Hydrop
 
 ## Resources
 
++ A good [Tutorial](https://sites.tufts.edu/eeseniordesignhandbook/files/2017/05/FireBrick_OKeefe_F1.pdf) on TDOA
++ SSL Introduction [Video](https://www.youtube.com/watch?v=Z7X7lf6FdYY) with good explanation
+
 + [Review Paper][review-paper]
 + ODAS: An open source Multiple Sound source Localization system [ODAS Paper Link](https://arxiv.org/abs/1812.00115)
-+ [SSL Introduction Video](https://www.youtube.com/watch?v=Z7X7lf6FdYY)
+
+### Footnotes
+
+<a name="tdoa">[1] </a> TDOA: Time Difference of Arrival
+
+<a name="ssl">[2] </a> SSL: Sound Source Localization
+<a name="rxy">[3] </a> R<sub>xy</sub> : Cross-correlation coefficient. Mathematically similar to a Convolution operation.  
+<a name="soundcard">[4] </a> Quantum. QHM623 3D Virtual 5.1 USB Audio Controller Sound Card (Integrated 2 Channel)
 
 [review-paper]: <https://www.sciencedirect.com/science/article/abs/pii/S0041624X13001819>
 [multilateration]: <https://en.wikipedia.org/wiki/Multilateration>

@@ -40,20 +40,20 @@ For navigation there is always requirement of a good Positioning system, similar
 
 ### SSL
 
-There have been various techniques and methods developed for SSL[^ssl]. [Multilateration][multilateration] has already been in application for many years. Others methods are Beamforming, Eigen Vectors based, Neural Networks based, etc. To read in detail click [Here][review-paper] for a Review paper on SSL.
+There have been various techniques and methods developed for SSL<sup>[[2]](#ssl)</sup>. [Multilateration][multilateration] has already been in application for many years. Others methods are Beamforming, Eigen Vectors based, Neural Networks based, etc. To read in detail click [Here][review-paper] for a Review paper on SSL.
 
 We have used Multilateration from the possible options as it is simple and requires lesser equipment. To quote Wikipedia, Multilateration is a navigation and surveillance technique based on measurement of the times of arrival (TOAs) of energy waves (radio, acoustic, seismic, etc.) having a known propagation speed. Prior to computing a solution, the time of transmission (TOT) of the waves is unknown to the receiver.
 
-There are 3 common techniques under multilateration viz. Received Signal Strength (RSS), Time of Arrival (TOA) and Time Difference of Arrival (TDOA[^tdoa]).
+There are 3 common techniques under multilateration viz. Received Signal Strength (RSS), Time of Arrival (TOA) and Time Difference of Arrival (TDOA<sup>[[1]](#tdoa)</sup>).
 
 As pointed out in [this paper](https://ieeexplore.ieee.org/document/5342476/), 
-> the accuracy of TOA- and TDOA[^tdoa]-based localization techniques is better than that of RSS-based localization technique. Moreover, the TOA-based localization technique requires knowledge of the transmission time of the received signal from the transmitter, which is not necessary for TDOA-based localization technique.
+> the accuracy of TOA- and TDOA<sup>[[1]](#tdoa)</sup>-based localization techniques is better than that of RSS-based localization technique. Moreover, the TOA-based localization technique requires knowledge of the transmission time of the received signal from the transmitter, which is not necessary for TDOA-based localization technique.
 
 Thus, we focused on TDOA-based localization technique.
 
 ### SSL: TDOA
 
-One of most used multilateration techniques is TDOA [^tdoa] or Time Difference of Arrival method. It is similar to Inter-neural.  
+One of most used multilateration techniques is TDOA <sup>[[1]](#tdoa)</sup> or Time Difference of Arrival method. It is similar to Inter-neural.  
 
 Consider the simplest case of Multilateration and TDoA for sound source localization.
 
@@ -88,7 +88,7 @@ Most of the development in this technique has been on improving the accuracy of 
 **Hardware**:
 
 + 2 Microphones ( Samsung in-ear Headphones )
-+ 2 Audio to USB convertors[^soundcard], which are basically Sound Card Controllers.
++ 2 Audio to USB convertors<sup>[[4]](#soundcard)</sup>, which are basically Sound Card Controllers.
 + Laptop
 
 ![soundcard](./static/hozaifa_ssl_soundcard.png)
@@ -108,15 +108,15 @@ Now, we try to calculate time delay between two different audio signals to as to
 ![basic setup](./static/hozaifa_ssl_formula.png)
 
 
-This Time Delay, T<sub>d</sub>[^tdoa] is calculated using a mathematical operation called Cross-correlation and finding cross-correlation coefficient R<sub>xy</sub>[^rxy].
+This Time Delay, T<sub>d</sub><sup>[[1]](#tdoa)</sup> is calculated using a mathematical operation called Cross-correlation and finding cross-correlation coefficient R<sub>xy</sub><sup>[[3]](#rxy)</sup>.
 
-Correlation coefficient of any two signals is a measure of similarity between them. Hence, the value of R<sub>xy</sub>[^rxy] will be highest when signals are most similar and lowest when least similar or most dissimilar.
+Correlation coefficient of any two signals is a measure of similarity between them. Hence, the value of R<sub>xy</sub><sup>[[3]](#rxy)</sup> will be highest when signals are most similar and lowest when least similar or most dissimilar.
 
->Since, the two audio signals we received are same signals but shifted in Time their R<sub>xy</sub>[^rxy] will be maximum when this time shift is equal to Time Delay T<sub>d</sub>[^tdoa] 
+>Since, the two audio signals we received are same signals but shifted in Time their R<sub>xy</sub><sup>[[3]](#rxy)</sup> will be maximum when this time shift is equal to Time Delay T<sub>d</sub><sup>[[1]](#tdoa)</sup> 
 
-Perform R<sub>xy</sub>[^rxy].
+Perform R<sub>xy</sub><sup>[[3]](#rxy)</sup>.
 
-We haven't gone with the sophisticated way of calculating TDOA or improving the accuracy of Cross correlation using GCC (Generalized Cross-Correlation). We simply determined the sign of R<sub>xy</sub>[^rxy] (Cross Correlation Coefficient) and determined the orientation.
+We haven't gone with the sophisticated way of calculating TDOA or improving the accuracy of Cross correlation using GCC (Generalized Cross-Correlation). We simply determined the sign of R<sub>xy</sub><sup>[[3]](#rxy)</sup> (Cross Correlation Coefficient) and determined the orientation.
 
 We didn't try it practically, but a simple `numpy.argmax()` of R<sub>xy</sub> gives the TDOA, which can be used for Angle Calculation as mentioned above.
 
@@ -177,13 +177,13 @@ Later on this Tech has to be transferred to Underwater Localization using Hydrop
 
 ### Footnotes
 
-[^tdoa]: TDOA: Time Difference of Arrival
+<a name="tdoa">[1] </a> TDOA: Time Difference of Arrival
 
-[^ssl]: SSL: Sound Source Localization
+<a name="ssl">[2] </a> SSL: Sound Source Localization
 
-[^rxy]: R<sub>xy</sub> : Cross-correlation coefficient. Mathematically similar to a Convolution operation. Read more about [Cross-correlation](https://en.wikipedia.org/wiki/Cross-correlation)  on Wikipedia
+<a name="rxy">[3] </a> R<sub>xy</sub> : Cross-correlation coefficient. Mathematically similar to a Convolution operation. Read more about [Cross-correlation](https://en.wikipedia.org/wiki/Cross-correlation)  on Wikipedia
 
-[^soundcard]: Quantum QHM623 3D Virtual 5.1 USB Audio Controller Sound Card (Integrated 2 Channel)
+<a name="soundcard">[4] </a> Quantum. QHM623 3D Virtual 5.1 USB Audio Controller Sound Card (Integrated 2 Channel)
 
 [review-paper]: <https://www.sciencedirect.com/science/article/abs/pii/S0041624X13001819>
 [multilateration]: <https://en.wikipedia.org/wiki/Multilateration>

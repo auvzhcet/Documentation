@@ -95,7 +95,7 @@ Also, I compiled a list of Face dataset with diverse set of cases and so it can 
 
 ## Results and Performance
 
-No practical testing was done. And, we only tested using webcam.  
+And, we only tested using webcam. Will be uploaded shortly.
 
 ---
 
@@ -122,6 +122,8 @@ Few Options are:
 * SSD with MobileNetv3 or EfficientNetB4 - proven to work very well on Raspberry Pi.
 * YOLOv5 - released few days ago.
 
+---
+
 ## Resources
 
 * YOLO Resources:
@@ -129,3 +131,9 @@ Few Options are:
   - [Train on Custom Dataset](https://blog.roboflow.ai/training-yolov4-on-a-custom-dataset/)
   - [What's new in YOLOv4?](https://towardsdatascience.com/whats-new-in-yolov4-323364bb3ad3)
   - [Another good Explanation](https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006)
+
+## TODO
+
++ Add dataset link
++ Upload test GIF
++ Add mAP and IOU scores.

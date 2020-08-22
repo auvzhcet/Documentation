@@ -32,7 +32,7 @@ One of the possible ways of localizing an AUV for Navigation purposes is to dete
 4. [Results and Performance](#results-and-performance)
 5. [Problems faced](#problems-faced)
 6. [Conclusion and Scope](#conclusion-and-scope) ( _proof read required!!_)
-7. [Further Development](#further-developement)
+7. [Further Development](#further-development)
 8. [Resources](#resources)
 
 ---

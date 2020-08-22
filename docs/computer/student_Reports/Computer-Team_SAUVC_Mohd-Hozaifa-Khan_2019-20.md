@@ -1,13 +1,8 @@
-|title|author|email|
-|:-|:---:|---|
-|Precautionary System during  COVID-19 for ZHECT|**Mohd Hozaifa Khan**| [mhozaifakhan98@gmail.com](mailto:mhozaifakhan98@gmail.com)|
-
 ---
-
-|During|Guidance|Submitted on|
-|--|--|--|
-|_15 May - 09 June 2020_| **Dr. Saleem Anwar Khan**|20th July 2020|
-
+title: Precautionary System during  COVID-19 for ZHECT
+author: Mohd Hozaifa Khan
+email: [mhozaifakhan98@gmail.com](mailto:mhozaifakhan98@gmail.com)
+duration: _15 May - 09 June 2020_
 ---
 
 # Report on Precautionary System during  COVID-19 for ZHECT

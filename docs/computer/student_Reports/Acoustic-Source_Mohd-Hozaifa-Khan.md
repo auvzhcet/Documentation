@@ -60,7 +60,7 @@ We have used Multilateration from the possible options as it is simple and requi
 There are 3 common techniques under multilateration viz. Received Signal Strength (RSS), Time of Arrival (TOA) and Time Difference of Arrival (TDOA<sup>[[1]](#tdoa)</sup>).
 
 As pointed out in [this paper](https://ieeexplore.ieee.org/document/5342476/), 
-> the accuracy of TOA- and TDOA<sup>[[1]](#tdoa)</sup>-based localization techniques is better than that of RSS-based localization technique. Moreover, the TOA-based localization technique requires knowledge of the transmission time of the received signal from the transmitter, which is not necessary for TDOA-based localization technique. 
+> the accuracy of TOA- and TDOA<sup>[[1]](#tdoa)</sup>-based localization techniques is better than that of RSS-based localization technique. Moreover, the TOA-based localization technique requires knowledge of the transmission time of the received signal from the transmitter, which is not necessary for TDOA-based localization technique.
 
 Thus, we focused on TDOA-based localization technique.
 
@@ -102,17 +102,17 @@ Most of the development in this technique has been on improving the accuracy of 
 + 2 Audio to USB convertors<sup>[[4]](#soundcard)</sup>, which are basically Sound Card Controllers.
 + Laptop
 
-![sound-card](./sound-card.png)
+![sound-card](./img/soundcard.png)
 
 ---
 
 ## Methodology
 
-We have simply tried to determine the direction of arrival with a resolution of **90 degrees!!**. In simple terms : _left or right_. We placed the two microphones at distance of approximately 20cm and connected them to the computer via audio to USB convertors (sound cards). 
+We have simply tried to determine the direction of arrival with a resolution of **90 degrees!!**. In simple terms : _left or right_. We placed the two microphones at distance of approximately 20cm and connected them to the computer via audio to USB convertors (sound cards).
 
-Two different Object Streams created by PyAudio keeps listening to the ports on which microphones were attached. We get two different Audio Signals. Remove noise. filter out based on frequency. 
+Two different Object Streams created by PyAudio keeps listening to the ports on which microphones were attached. We get two different Audio Signals. Remove noise and smoothen the signal. Also, we filter-out irrelevant sound based on frequency.
 
-Perform RXY. 
+Perform R<sub>xy</sub><sup>[[3]](#rxy)</sup>.
 
 We haven't gone with the sophisticated way of calculating TDOA or improving the accuracy of Cross correlation using GCC (Generalized Cross-Correlation). We simply determined the sign of R<sub>xy</sub><sup>[[3]](#rxy)</sup> (Cross Correlation Coefficient) and determined the orientation.
 
@@ -178,7 +178,9 @@ Later on this Tech has to be transferred to Underwater Localization using Hydrop
 <a name="tdoa">[1] </a> TDOA: Time Difference of Arrival
 
 <a name="ssl">[2] </a> SSL: Sound Source Localization
+
 <a name="rxy">[3] </a> R<sub>xy</sub> : Cross-correlation coefficient. Mathematically similar to a Convolution operation.  
+
 <a name="soundcard">[4] </a> Quantum. QHM623 3D Virtual 5.1 USB Audio Controller Sound Card (Integrated 2 Channel)
 
 [review-paper]: <https://www.sciencedirect.com/science/article/abs/pii/S0041624X13001819>

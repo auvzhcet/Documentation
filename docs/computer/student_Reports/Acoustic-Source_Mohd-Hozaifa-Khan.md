@@ -64,7 +64,7 @@ Consider the simplest case of Multilateration and TDoA for sound source localiza
 
 Take for instance a sound source S or P and two detectors or microphones M1 and M2. The simplest case is to determine on which side does the source lie with respect to the center of line joining M1 and M2. Let's refer this point as O.
 
-<img src="./img/basic_setup.png" alt="drawing" width="270"/>
+![basic setup](./img/basic_setup.png)
 
 The possible answers to the Questions _"Which side does the source S lie with respect to O, M1, M2?"_ can be **right** or **left**. A more accurate answer could the angle in degrees or radians subtended by source S( P in picture) at O from Line M1,M2. *Determining this angle in essence is a rudimentary form of Sound Source Localization*.
 
@@ -96,7 +96,7 @@ Most of the development in this technique has been on improving the accuracy of 
 + 2 Audio to USB convertors<sup>[[4]](#soundcard)</sup>, which are basically Sound Card Controllers.
 + Laptop
 
-<img src="./img/soundcard.png" width=200>
+<img src="./img/soundcard.png" width=250>
 
 ---
 
@@ -110,7 +110,7 @@ Two different Object Streams created by PyAudio keeps listening to the ports on 
 
 Now, we try to calculate time delay between two different audio signals to as to get the Azimuthal angle. The reason to do so is as shown in the formula:
 
-<img src="./img/formula.png" width=400>
+![basic setup](./img/formula.png)
 
 
 This Time Delay, T<sub>d</sub><sup>[[1]](#tdoa)</sup> is calculated using a mathematical operation called Cross-correlation and finding cross-correlation coefficient R<sub>xy</sub><sup>[[3]](#rxy)</sup>.

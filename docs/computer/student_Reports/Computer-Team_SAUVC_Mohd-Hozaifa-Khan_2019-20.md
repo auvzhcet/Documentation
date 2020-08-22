@@ -5,8 +5,6 @@ email: mhozaifakhan98@gmail.com
 duration: 15 May - 09 June 2020
 ---
 
-# Report on Precautionary System during  COVID-19 for ZHECT
-
 > work still in progress _under AUV_
 
 ---
@@ -90,7 +88,9 @@ Also, I compiled a list of Face dataset with diverse set of cases and so it can 
 
 ## Results and Performance
 
-And, we only tested using webcam. Will be uploaded shortly.
+And, we only tested using webcam.
+
++ Will be uploaded shortly.
 
 ---
 
@@ -113,15 +113,15 @@ For adversarial cases we can have more diverse dataset with various cases that w
 Other object detection techniques can be utilized and practically tested for better performance and accuracy.  
 Few Options are:
 
-* [EfficientDet](http://ai.googleblog.com/2020/04/efficientdet-towards-scalable-and.html) - Scalable and Efficient Object Detection by Google.
-* SSD with MobileNetv3 or EfficientNetB4 - proven to work very well on Raspberry Pi.
-* YOLOv5 - released few days ago.
++ [EfficientDet](http://ai.googleblog.com/2020/04/efficientdet-towards-scalable-and.html) - Scalable and Efficient Object Detection by Google.
++ SSD with MobileNetv3 or EfficientNetB4 - proven to work very well on Raspberry Pi.
++ YOLOv5 - released few days ago.
 
 ---
 
 ## Resources
 
-* YOLO Resources:
++ YOLO Resources:
   - [Understanding YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967)
   - [Train on Custom Dataset](https://blog.roboflow.ai/training-yolov4-on-a-custom-dataset/)
   - [What's new in YOLOv4?](https://towardsdatascience.com/whats-new-in-yolov4-323364bb3ad3)

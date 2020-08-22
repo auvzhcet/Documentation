@@ -70,9 +70,11 @@ One of most used multilateration techniques is TDOA <sup>[[1]](#tdoa)</sup> or T
 
 Consider the simplest case of Multilateration and TDoA for sound source localization.
 
-Take for instance a sound source S and two detectors or microphones M1 and M2. The simplest case is to determine on which side does the source lie with respect to the center of line joining M1 and M2. Let's refer this point as O.
+Take for instance a sound source S or P and two detectors or microphones M1 and M2. The simplest case is to determine on which side does the source lie with respect to the center of line joining M1 and M2. Let's refer this point as O.
 
-The possible answers to the Questions _"Which side does the source S lie with respect to O, M1, M2?"_ can be **right** or **left**. A more accurate answer could the angle in degrees or radians subtended by source S at O from Line M1,M2. *Determining this angle in essence is a rudimentary form of Sound Source Localization*.
+<img src="./img/basic_setup.png" alt="drawing" width="270"/>
+
+The possible answers to the Questions _"Which side does the source S lie with respect to O, M1, M2?"_ can be **right** or **left**. A more accurate answer could the angle in degrees or radians subtended by source S( P in picture) at O from Line M1,M2. *Determining this angle in essence is a rudimentary form of Sound Source Localization*.
 
 Due to the unsymmetrical arrangement of Source, there will be a phase difference and hence a path difference in the waves received by M1 and M2. Calculating this path difference can help calculate the angle.
 
@@ -102,7 +104,7 @@ Most of the development in this technique has been on improving the accuracy of 
 + 2 Audio to USB convertors<sup>[[4]](#soundcard)</sup>, which are basically Sound Card Controllers.
 + Laptop
 
-![sound-card](./img/soundcard.png)
+<img src="./img/soundcard.png" width=200>
 
 ---
 

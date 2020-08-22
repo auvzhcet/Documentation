@@ -1,12 +1,9 @@
-|title|author|email|
-|:-|:---:|---|
-|Acoustic Source Localization Subsystem|**Mohd Hozaifa Khan**| [mhozaifakhan98@gmail.com](mailto:mhozaifakhan98@gmail.com)|
-
 ---
-
-|During|Contributors|Guidance|Submitted on|
-|--|--|--|--|
-|_15 April - 13 May 2020_| *Syed Jawad Akhtar & Mohd. Omama*| **Dr. Saleem Anwar Khan**|20th July 2020|
+title: Acoustic Source Localization Subsystem
+author: Mohd Hozaifa Khan
+email: mhozaifakhan98@gmail.com
+Duration: 15 April - 13 May 2020
+Contributors: Syed Jawad Akhtar & Mohd. Omama 
 
 ---
 

@@ -1,24 +1,18 @@
-# Report on Precautionary System during  COVID-19 for ZHECT
-
-> _under AUV_
+|title|author|email|
+|:-|:---:|---|
+|Precautionary System during  COVID-19 for ZHECT|**Mohd Hozaifa Khan**| [mhozaifakhan98@gmail.com](mailto:mhozaifakhan98@gmail.com)|
 
 ---
 
-Submitted by: **Mohd Hozaifa Khan**
+|During|Guidance|Submitted on|
+|--|--|--|
+|_15 May - 09 June 2020_| **Dr. Saleem Anwar Khan**|20th July 2020|
 
-Mail: [mhozaifakhan98@gmail.com](mailto:mhozaifakhan98@gmail.com)
+---
 
-Work during: _15 May - 09 June 2020_  
+# Report on Precautionary System during  COVID-19 for ZHECT
 
-Under the Guidance of
-
-**Dr. Saleem Anwar Khan**
-
-_Associate Professor, Mechanical Engg., ZHCET_
-
-_Teacher In-charge_, **_AUV Club_**
-
-Submitted on: *20th July 2020*
+> work still in progress _under AUV_
 
 ---
 

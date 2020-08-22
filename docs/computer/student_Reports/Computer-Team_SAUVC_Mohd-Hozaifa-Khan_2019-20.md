@@ -1,8 +1,8 @@
 ---
 title: Precautionary System during  COVID-19 for ZHECT
 author: Mohd Hozaifa Khan
-email: [mhozaifakhan98@gmail.com](mailto:mhozaifakhan98@gmail.com)
-duration: _15 May - 09 June 2020_
+email: mhozaifakhan98@gmail.com
+duration: 15 May - 09 June 2020
 ---
 
 # Report on Precautionary System during  COVID-19 for ZHECT

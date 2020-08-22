@@ -122,7 +122,7 @@ We didn't try it practically, but a simple `numpy.argmax()` of R<sub>xy</sub> gi
 
 ## Results and Performance
 
-* Work is incomplete to mention any result.
+Work is incomplete to mention any result.
 
 + Resolution: not Measured Yet.
 

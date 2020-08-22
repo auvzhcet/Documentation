@@ -114,11 +114,24 @@ We have simply tried to determine the direction of arrival with a resolution of 
 
 Two different Object Streams created by PyAudio keeps listening to the ports on which microphones were attached. We get two different Audio Signals. Remove noise and smoothen the signal. Also, we filter-out irrelevant sound based on frequency.
 
+### Calculate Time Delay
+
+Now, we try to calculate time delay between two different audio signals to as to get the Azimuthal angle. The reason to do so is as shown in the formula:
+
+<img src="./img/formula.png" width=400>
+
+
+This Time Delay, T<sub>d</sub><sup>[[1]](#tdoa)</sup> is calculated using a mathematical operation called Cross-correlation and finding cross-correlation coefficient R<sub>xy</sub><sup>[[3]](#rxy)</sup>.
+
+Correlation coefficient of any two signals is a measure of similarity between them. Hence, the value of R<sub>xy</sub><sup>[[3]](#rxy)</sup> will be highest when signals are most similar and lowest when least similar or most dissimilar.
+
+>Since, the two audio signals we received are same signals but shifted in Time their R<sub>xy</sub><sup>[[3]](#rxy)</sup> will be maximum when this time shift is equal to Time Delay T<sub>d</sub><sup>[[1]](#tdoa)</sup> 
+
 Perform R<sub>xy</sub><sup>[[3]](#rxy)</sup>.
 
 We haven't gone with the sophisticated way of calculating TDOA or improving the accuracy of Cross correlation using GCC (Generalized Cross-Correlation). We simply determined the sign of R<sub>xy</sub><sup>[[3]](#rxy)</sup> (Cross Correlation Coefficient) and determined the orientation.
 
-We didn't try it practically, but a simple `numpy.argmax()` of R<sub>xy</sub> gives the TDOA, which can be used for Angle Calculation.
+We didn't try it practically, but a simple `numpy.argmax()` of R<sub>xy</sub> gives the TDOA, which can be used for Angle Calculation as mentioned above.
 
 ## Results and Performance
 
@@ -181,7 +194,7 @@ Later on this Tech has to be transferred to Underwater Localization using Hydrop
 
 <a name="ssl">[2] </a> SSL: Sound Source Localization
 
-<a name="rxy">[3] </a> R<sub>xy</sub> : Cross-correlation coefficient. Mathematically similar to a Convolution operation.  
+<a name="rxy">[3] </a> R<sub>xy</sub> : Cross-correlation coefficient. Mathematically similar to a Convolution operation. Read more about [Cross-correlation](https://en.wikipedia.org/wiki/Cross-correlation)  on Wikipedia
 
 <a name="soundcard">[4] </a> Quantum. QHM623 3D Virtual 5.1 USB Audio Controller Sound Card (Integrated 2 Channel)
 

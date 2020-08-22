@@ -1,28 +1,20 @@
+|title|author|email|
+|:-|:---:|---|
+|Acoustic Source Localization Subsystem|**Mohd Hozaifa Khan**| [mhozaifakhan98@gmail.com](mailto:mhozaifakhan98@gmail.com)|
+
+---
+
+|During|Contributors|Guidance|Submitted on|
+|--|--|--|--|
+|_15 April - 13 May 2020_| *Syed Jawad Akhtar & Mohd. Omama*| **Dr. Saleem Anwar Khan**|20th July 2020|
+
+---
+
 # Report on: **Acoustic Source Localization Subsystem**
 
 > _Under AUV_ during Summer 2020
 
-*This is first in a series of (to be submitted) reports in order to build Acoustic Source Localisation System for our AUV*
-
----
-
-Submitted by: **Mohd Hozaifa Khan**
-
-Mail: [mhozaifakhan98@gmail.com](mailto:mhozaifakhan98@gmail.com)
-
-Work during: _15 April - 13 May 2020_  
-
-In collaboration with:  *Syed Jawad Akhtar & Mohd. Omama*
-
-Under the Guidance of
-
-**Dr. Saleem Anwar Khan**
-
-_Associate Professor, Mechanical Engg, ZHCET_
-
-_Teacher In-charge_, **_AUV Club_**
-
-Submitted on: 20th July 2020
+*This is first in a series of (to be submitted) reports in order to build Acoustic Source Localization System for our AUV*
 
 ---
 

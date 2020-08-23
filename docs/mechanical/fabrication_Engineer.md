@@ -12,4 +12,6 @@ email: shubhamsingh2454@gmail.com
 - Consult with other teams during product manufacturing, advising them on design specifications and providing physical assistance when required.
 - Calculate cost estimates for final product designs, and release reports to supervisors, incorporating costs of labour, material, delivery and overhead.
 - Attend weekly team meetings to provide progress reports, obtain updates on colleagues’ progress, strategize on steps for the following week and acquire information about projected emerging product lines.
-- The fabrication engineer is responsible for documenting the project details. He has to provide detailed information regarding all the phases of the projects.
+
+!!! important
+    The fabrication engineer is responsible for documenting the project details. He has to provide detailed information regarding all the phases of the projects.

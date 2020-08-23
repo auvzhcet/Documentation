@@ -19,12 +19,12 @@ The responsibilities of the Alumni relations officer is to:
 3. Connecting with them on various social media platforms
 4. Organizing special visits for them.
 5. Making presentations customized to the background of the alumni (technical - non-technical).
-6. Organization of the biggest event of the year - 'Alumni Meet':
-    a. Contacting any previously connected alumni for a live interactive session.
-    b. Connecting with new alumni - Helping them during accommodation, travel, or food.
-    c. It's compulsory to join the **Alumni meet official organizing committee** along with other team members.
-    d. Connect and be in regular contact with the **Alumni Relations Officer** of the university.
-    e. Make sure the maximum amount of alumni touch and interact with our booth.
+6. Organization of the biggest event of the year - 'Alumni Meet':  
+    a. Contacting any previously connected alumni for a live interactive session.  
+    b. Connecting with new alumni - Helping them during accommodation, travel, or food.  
+    c. It's compulsory to join the **Alumni meet official organizing committee** along with other team members.  
+    d. Connect and be in regular contact with the **Alumni Relations Officer** of the university.  
+    e. Make sure the maximum amount of alumni touch and interact with our booth.  
     f. Pamphlets, Stickers, presentations, videos, and live demonstrations of the vehicle must all be prepared before one month of the event.
 7. Contacting potential companies for products/sponsorship with the help of alumni in that company.
 

@@ -3,6 +3,7 @@ site_name: AUV-DOC
 nav:
   - Home: index.md
   - About: about.md
+  - License: ./LICENSE
   - Development:
     - Code of conduct: Development/code_of_conduct.md
     - Contributing guidelines: Development/CONTRIBUTING.md

@@ -43,7 +43,7 @@ The company provides the following 3 simple demos for fast evaluations:
 2. _Simple_Grabber_: This application demonstrates the process of getting RPLIDAR’s serial number, firmware version and healthy status after connecting the PC and RPLIDAR. Then the demo application grabs two round of scan data and shows the range data as histogram in the command line mode.
 3. _Frame_Grabber_: This demo application can show real-time laser scans in the GUI and is only available on Windows platform. It can also be run using RoboStudio.
 
-Checkout their [GitHub Repo][slamtec-public-repo] for details on how to run each of them on different machines.
+Checkout Slamtec's [GitHub Repo][slamtec-public-repo] for details on how to run each of them on different machines.
 
 ### Run `frame_grabber.exe`
 

@@ -30,8 +30,8 @@ For more detailed specification, check the [official website](https://www.slamte
 
 ## Set-up on Windows
 
-1. Install [cp2102 Driver](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) to connect it using USB. (_preferable_)
-2. Install RoboStudio to connect using WiFi.
++ Download and install cp2102 Driver (UART VCP driver) from [here](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) to connect it using USB. (_preferable_)
++ Install RoboStudio to connect using WiFi.
 
 ---
 
@@ -51,8 +51,8 @@ Checkout Slamtec's [GitHub Repo][slamtec-public-repo] for details on how to run 
 2. Extract the all the files to a folder.
 3. Navigate to `rp_lidar_sdk_v1.4.2/tools/win32/`
 4. Run `frame_grabber.exe`
-5. A dialogue box pops up to select serial Port and click OK.
-   > COM Port number can be found out by opening the `Device Manager` and expanding the `Serial COM ports`.
+5. A dialogue box pops up to select Serial Port and click OK.
+   > COM Port number can be found by opening the `Device Manager` and expanding the `Serial COM ports`.
 6. Click the **Red play button** to start the scanning.
 
 !! Map your surrounding and Enjoy the cool stuff.

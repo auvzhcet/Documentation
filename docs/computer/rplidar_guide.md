@@ -47,7 +47,7 @@ Checkout their [GitHub Repo][slamtec-public-repo] for details on how to run each
 
 ### Run `frame_grabber`
 
-1. Download `rp_lidar_sdk_v1.4.2.7z` from [here](./assets/rp_lidar_sdk_v1.4.2.7z).
+1. Download `rp_lidar_sdk_v1.4.2.7z` from [here](./static/rp_lidar_sdk_v1.4.2.7z).
 2. Extract the all the files to a folder.
 3. Navigate to `rp_lidar_sdk_v1.4.2/tools/win32/`
 4. Run `frame_grabber.exe`

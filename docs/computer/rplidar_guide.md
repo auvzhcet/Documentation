@@ -53,7 +53,7 @@ Checkout their [GitHub Repo][slamtec-public-repo] for details on how to run each
 4. Run `frame_grabber.exe`
 5. A dialogue box pops up to select serial Port and click OK.
    > COM Port number can be found out by opening the `Device Manager` and expanding the `Serial COM ports`.
-6. Click on **Red coloured play button** to start the scanning.
+6. Click the **Red play button** to start the scanning.
 
 !! Map your surrounding and Enjoy the cool stuff.
 

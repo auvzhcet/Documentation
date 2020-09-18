@@ -49,7 +49,7 @@ Checkout Slamtec's [GitHub Repo][slamtec-public-repo] for details on how to run 
 
 1. Download `rp_lidar_sdk_v1.4.2.7z` from [here](./static/).
 2. Extract the all the files to a folder.
-3. Navigate to `rp_lidar_sdk_v1.4.2/tools/win32/`
+3. Navigate to `rp_lidar_sdk_v1.4.2\tools\win32\` or `rp_lidar_sdk_v1.4.2\sdk\prebuild\win32\`.
 4. Run `frame_grabber.exe`
 5. A dialogue box pops up to select Serial Port and click OK.
    > COM Port number can be found by opening the `Device Manager` and expanding the `Serial COM ports`.

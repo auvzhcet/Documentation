@@ -39,17 +39,22 @@ For more detailed specification, check the [official website](https://www.slamte
 
 The company provides the following 3 simple demos for fast evaluations:
 
-1. Ultra_Simple:
-2. Simple_Grabber:
-3. Frame_Grabber:
+1. _Ultra_Simple_: This demo application simply connects to the RPLIDAR device and outputs the scan data to the console.
+2. _Simple_Grabber_: This application demonstrates the process of getting RPLIDAR’s serial number, firmware version and healthy status after connecting the PC and RPLIDAR. Then the demo application grabs two round of scan data and shows the range data as histogram in the command line mode.
+3. _Frame_Grabber_: This demo application can show real-time laser scans in the GUI and is only available on Windows platform. It can also be run using RoboStudio.
 
 Checkout their [GitHub Repo][slamtec-public-repo] for details on how to run each of them on different machines.
 
-### Run `frame_grabber`
+### Run `frame_grabber.exe`
 
 1. Download `rp_lidar_sdk_v1.4.2.7z` from [here](./static/).
 2. Extract the all the files to a folder.
 3. Navigate to `rp_lidar_sdk_v1.4.2/tools/win32/`
 4. Run `frame_grabber.exe`
+5. A dialogue box pops up to select serial Port and click OK.
+   > COM Port number can be found out by opening the `Device Manager` and expanding the `Serial COM ports`.
+6. Click on **Red coloured play button** to start the scanning.
+
+!! Map your surrounding and Enjoy the cool stuff.
 
 [slamtec-public-repo]: <https://github.com/Slamtec/rplidar_sdk>

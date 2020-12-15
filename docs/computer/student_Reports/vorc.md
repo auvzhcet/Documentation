@@ -34,7 +34,7 @@ Contributors: AUV computer team
 
 - ### Final Video
 
-    ![Final Video](https://www.youtube.com/watch?v=S0Tsddfq03k)
+    [![Final Video](http://img.youtube.com/vi/S0Tsddfq03k/0.jpg)](https://www.youtube.com/watch?v=S0Tsddfq03k)
 
 - ### Snapshots of the Project
 

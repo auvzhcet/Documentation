@@ -21,6 +21,18 @@
 - Edit the video.
 - After final Editing Submit it on Youtube.
 
+## Authors
+
+- Yash Agarwal
+- Saloni Gupta
+- Iftakhar Kaunain Ashhar
+- Pranshi Jindal
+- Shubh Singhal
+- Aqdas
+- Abdul Razim
+- Suha Abad
+
+
 ## References
 
 - ### Final Video

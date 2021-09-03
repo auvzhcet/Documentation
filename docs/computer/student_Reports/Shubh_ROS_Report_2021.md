@@ -7,7 +7,7 @@ Duration: 1 July - 7 August 2021
 
 ## ROS (Robot Operating System)
 
-**Objective**: Complete ROS revision, Creating a basic talker & listener node.
+**Objective**: Complete ROS revision, Creating a basic talker & listener node
 
 **Resources**:
  - [ROS tutorials](http://wiki.ros.org/ROS/Tutorials)

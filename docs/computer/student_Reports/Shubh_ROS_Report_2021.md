@@ -48,7 +48,7 @@ if __name__ == '__main__':
     except rospy.ROSInterruptException:
         pass
 ```
-The subscriber node will do as it name suggests. It subcribes to our topic `which_key` and logs the message.
+The subscriber node will do as its name suggests. It subcribes to our topic `which_key` and logs the message.
 
 ```
 #!/usr/bin/env python3

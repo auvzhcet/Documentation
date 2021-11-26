@@ -1,5 +1,5 @@
 ---
-title: Report for Internship Under Computer Team at AUVZHCET
+title: Report for Internship at AUV ZHCET
 author: Shahab Ahmad Khan
 email: shahabahmadkhan555@gmail.com
 Duration: 1 July - 7 August 2021

@@ -25,4 +25,4 @@ Topics are named buses over which nodes send and receive messages. Topic names m
 Nodes are at the center of ROS programming, as most ROS client code is in the form of a ROS node which takes actions based on information received from other nodes, sends information to other nodes, or sends and receives requests for actions to and from other nodes.
 
 **Services:**
-A service represents an action that a node can take which will have a single result. Nodes advertise services and call services from one another. 
+A service represents an action that a node can take which will have a single result. Nodes advertise services and call services from one another
